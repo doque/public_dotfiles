@@ -1,0 +1,60 @@
+// Config file for linting using eslint
+{
+    // Configure rules here, http://eslint.org/docs/rules/
+    "rules": {
+
+        // Code style
+        "brace-style": 1,               // opening brace in the same line as its block
+        "curly": 2,                     // specify curly brace conventions for all control statements
+        "indent": [2, 4, {              // 4 spaces for indentation
+            "SwitchCase": 1             // force indentation for switch-case
+        }],
+        "linebreak-style": [2, "unix"], // unix line endings
+        "no-console": 0,                // stripped by uglify anyway
+        "no-mixed-spaces-and-tabs": 2,  // disallow mixed spaces and tabs for indentation
+        "no-multiple-empty-lines": 2,   // one empty line max.
+        "no-undef": [2],                // throw error when using undefined variables
+        "no-var": 1,                    // use let/const intead of var
+        "quotes": [0, "double"],        // double quotes only
+        "semi": [2, "always"],          // require semicolons always
+
+        // Possible Errors
+        "strict": [1, "global"],        // enable strict mode
+        "eqeqeq": 1,                    // force comparisons to use ===
+        "no-extra-semi": 1,             // disallow unnecessary semicolons
+        "no-inner-declarations": 2,     // disallow function or variable declarations in nested blocks
+
+        // React specific rules
+        "react/jsx-curly-spacing":
+            [1, "always"],              // force curly braces in JSX
+        "jsx-quotes":
+            [1, "prefer-double"]        // Double quotes in JSX
+
+    },
+
+    "env": {
+        "browser":  true,               // provide browser variables
+        "commonjs": true,               // CommonJS modules
+        "es6":      true,               // use ES6 features
+        "jquery":   true                // provide jQuery variables
+    },
+
+    "extends": "eslint:recommended",    // http://eslint.org/docs/rules/#best-practices
+
+    "ecmaFeatures": {
+        "blockBindings":    true,       // needed for no-var
+        "jsx":              true,       // support usage of JSX <Components /> in JS
+        "modules":          true        // allow ES6 module import syntax
+    },
+
+    "plugins": [
+        "react"                         // Adds react-specific linting options
+    ],
+
+    // Define globally declared variables here
+    "globals": {
+        "$":          true,
+        "_":          true,
+        "React":      true
+    }
+}
