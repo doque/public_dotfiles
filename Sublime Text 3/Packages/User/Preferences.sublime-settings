@@ -1,0 +1,45 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"draw_minimap_border": true,
+	"enable_live_count": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid"
+	],
+	"folder_exclude_patterns":
+	[
+		".git"
+	],
+	"font_face": "Monaco",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"CSS Format",
+		"Dockerfile Syntax Highlighting",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JSCS-Formatter",
+		"JSX",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"show_full_path": true,
+	"tab_completion": false,
+	"theme": "Default.sublime-theme",
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"word_wrap": true
+}

@@ -1,0 +1,18 @@
+{
+    "autoformat": false,
+    "extensions": [
+        "js",
+        "jsx",
+        "sublime-settings"
+    ],
+    "jsx": {
+        "alignWithFirstAttribute": true,
+        "attrsOnSameLineAsTag": true,
+        "firstAttributeOnSameLine": false,
+        "formatJSX": true,
+        "maxAttrsOnTag": 1
+    },
+    "plugins": [
+        "esformatter-jsx"
+    ]
+}
