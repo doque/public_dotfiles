@@ -28,7 +28,6 @@
 		"Dockerfile Syntax Highlighting",
 		"Javascript Beautify",
 		"JavaScript Completions",
-		"JSCS-Formatter",
 		"JSX",
 		"Vintage"
 	],
@@ -37,6 +36,7 @@
 	"open_files_in_new_window": false,
 	"show_full_path": true,
 	"tab_completion": false,
+	"tab_size": 4,
 	"theme": "Default.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

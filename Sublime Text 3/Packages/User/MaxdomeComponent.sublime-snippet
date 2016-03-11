@@ -1,0 +1,41 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+import Api from '../../api/Api.jsx';
+
+/*eslint-disable */
+import styles from './${1:ComponentName}.scss';
+/*eslint-enable */
+
+export default class ${1:ComponentName} extends React.Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            ${2}
+        };
+    }
+
+    componentWillMount() {
+        ${4}
+    }
+
+    render() {
+        return (
+            <div>
+                ${5}
+            </div>
+        );
+    }
+}
+
+${1}.displayName = '${1}';
+${1}.propTypes = {
+    ${3}
+};
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>comp</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!--<scope>source.python</scope> -->
+</snippet>

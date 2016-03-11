@@ -10,8 +10,12 @@ Add the ability to use the following backrefs with re:
     * \Q and \Q...\E - Escape/quote chars (search)
     * \c and \C...\E - Uppercase char or chars (replace)
     * \l and \L...\E - Lowercase char or chars (replace)
-    * \p{Lu} and \p{Letter} and \p{Uppercase_Letter} - Unicode properties (search unicode)
-    * \P{Lu} adn \P{Letter} and \P{Uppercase_Letter} - Inverse Unicode properties (search unicode)
+    * [:ascii:]      - Posix style classes (search)
+    * [:^ascii:]     - Inverse Posix style classes (search)
+    * \p{Lu} and \p{Letter} and \p{gc=Uppercase_Letter}    - Unicode properties (search unicode)
+    * \p{block=Basic_Latin} and \p{InBasic_Latin}          - Unicode block properties (search unicode)
+    * \P{Lu} and \P{Letter} and \P{gc=Uppercase_Letter}    - Inverse Unicode properties (search unicode)
+    * \p{^Lu} and \p{^Letter} and \p{^gc=Uppercase_Letter} - Inverse Unicode properties (search unicode)
 
 Note
 =========
@@ -24,7 +28,8 @@ Note
   but you do *not* have to use re.UNICODE.
 
 - \l, \L, \c, and \C in searches will be ascii ranges unless re.UNICODE is used.  This is to
-  give some consistency with re's \w, \W, \b, \B, \d, \D, \s and \S.
+  give some consistency with re's \w, \W, \b, \B, \d, \D, \s and \S. Some posix classes will
+  also be affected.  See docs for more info.
 
 Compiling
 =========
@@ -81,87 +86,27 @@ RE_TYPE = type(re.compile('', 0))
 _UPPER = 0
 _LOWER = 1
 
-unicode_property_map = {
-    # Other
-    "Other": "C",
-    "Control": "Cc",
-    "Format": "Cf",
-    "Surrogate": "Cs",
-    "Private_Use": "Co",
-    "Unassigned": "Cn",
-
-    # Letter
-    "Letter": "L",
-    "Cased_Letter": "L&",
-    "Uppercase_Letter": "Lu",
-    "Lowercase_Letter": "Ll",
-    "Titlecase_Letter": "Lt",
-    "Modifier_Letter": "Lm",
-    "Other_Letter": "Lo",
-
-    # Mark
-    "Mark": "M",
-    "Nonspacing_Mark": "Mc",
-    "Spacing_Mark": "Me",
-    "Enclosing_Mark": "Md",
-
-    # Number
-    "Number": "N",
-    "Decimal_Number": "Nd",
-    "Letter_Number": "Nl",
-    "Other_Number": "No",
-
-    # Punctuation
-    "Punctuation": "P",
-    "Connector_Punctuation": "Pc",
-    "Dash_Punctuation": "Pd",
-    "Open_Punctuation": "Ps",
-    "Close_Punctuation": "Pe",
-    "Initial_Punctuation": "Pi",
-    "Final_Punctuation": "Pf",
-    "Other_Punctuation": "Po",
-
-    # Symbol
-    "Symbol": "S",
-    "Math_Symbol": "Sm",
-    "Currency_Symbol": "Sc",
-    "Modifier_Symbol": "Sk",
-    "Other_Symbol": "So",
-
-    # Separator
-    "Separator": "Z",
-    "Space_Separator": "Zs",
-    "Line_Separator": "Zl",
-    "Paragraph_Separator": "Zp"
-}
-
 # Regex pattern for unicode properties
-_UPROP = r'''
-(?:p|P)\{
-(?:
-    C(?:c|f|s|o|n)?|L(?:&|u|l|t|m|o|n)?|M(?:n|c|e|d)?|N(?:d|l|o|c|d)?|
-    P(?:c|d|s|e|i|f|o)?|S(?:c|m|k|o)?|Z(?:p|s|l)?|
-    Letter|Cased_Letter|Uppercase_Letter|Lowercase_Letter|Titlecase_Letter|Modifier_Letter|Other_Letter|
-    Mark|Nonspacing_Mark|Spacing_Mark|Enclosing_Mark|
-    Number|Decimal_Number|Letter_Number|Other_Number|
-    Punctuation|Connector_Punctuation|Dash_Punctuation|Open_Punctuation|Close_Punctuation|
-    Initial_Punctuation|Final_Punctuation|Other_Punctuation|
-    Symbol|Math_Symbol|Currency_Symbol|Modifier_Symbol|Other_Symbol|
-    Separator|Space_Separator|Line_Separator|Paragraph_Separator|
-    Control|Format|Surrogate|Private_Use|Unassigned|
-    Alnum|Alpha|ASCII|Blank|Cntrl|Digit|Graph|Lower|Print|Punct|Space|Upper|Word|XDigit
-)
-\}
-'''
+_UPROP = r'''(?:p|P)\{(?:\\.|[^\\}]+)+\}'''
 
 _RE_UPROP = re.compile(r'(?x)\\%s' % _UPROP)
 
 # Unicode string related references
 utokens = {
+    "re_posix": re.compile(r'(?i)\[:(?:\\.|[^\\:}]+)+:\]'),
+    "property_amp": '&',
+    "property_c": 'c',
+    "re_property_strip": re.compile(r'[\-_ ]'),
+    "re_property_gc": re.compile(
+        r'''(?x)
+        (?:((?:\\.|[^\\}]+)+?)[=:])?
+        ((?:\\.|[^\\}]+)+)
+        '''
+    ),
     "uni_prop": "p",
     "inverse_uni_prop": "P",
-    "ascii_lower": 'Lower',
-    "ascii_upper": 'Upper',
+    "ascii_lower": 'lower',
+    "ascii_upper": 'upper',
     "re_search_ref": re.compile(
         r'''(?x)
         (\\)+
@@ -191,48 +136,25 @@ utokens = {
     "re_flags": re.compile(
         r'(?s)(\\.)|\(\?([aiLmsux]+)\)|(.)' if compat.PY3 else r'(?s)(\\.)|\(\?([iLmsux]+)\)|(.)'
     ),
-    "ascii_flag": "a",
-    "re_posix": re.compile(
-        r'\[:(\^?(?:alnum|alpha|ascii|blank|cntrl|digit|graph|lower|print|punct|space|upper|word|xdigit)):\]'
-    ),
-    "posix": {
-        "alnum": "Alnum",
-        "alpha": "Alpha",
-        "ascii": "ASCII",
-        "blank": "Blank",
-        "cntrl": "Cntrl",
-        "digit": "Digit",
-        "graph": "Graph",
-        "lower": "Lower",
-        "print": "Print",
-        "punct": "Punct",
-        "space": "Space",
-        "upper": "Upper",
-        "word": "Word",
-        "xdigit": "XDigit",
-        "^alnum": "^Alnum",
-        "^alpha": "^Alpha",
-        "^ascii": "^ASCII",
-        "^blank": "^Blank",
-        "^cntrl": "^Cntrl",
-        "^digit": "^Digit",
-        "^graph": "^Graph",
-        "^lower": "^Lower",
-        "^print": "^Print",
-        "^punct": "^Punct",
-        "^space": "^Space",
-        "^upper": "^Upper",
-        "^word": "^Word",
-        "^xdigit": "^XDigit"
-    }
+    "ascii_flag": "a"
 }
 
 # Byte string related references
 btokens = {
+    "re_posix": re.compile(br'(?i)\[:(?:\\.|[^\\:}]+)+:\]'),
+    "property_amp": b'&',
+    "property_c": b'c',
+    "re_property_strip": re.compile(br'[\-_ ]'),
+    "re_property_gc": re.compile(
+        br'''(?x)
+        (?:((?:\\.|[^\\}]+)+?)[=:])?
+        ((?:\\.|[^\\}]+)+)
+        '''
+    ),
     "uni_prop": b"p",
     "inverse_uni_prop": b"P",
-    "ascii_lower": b"Lower",
-    "ascii_upper": b"Upper",
+    "ascii_lower": b"lower",
+    "ascii_upper": b"upper",
     "re_search_ref": re.compile(
         br'''(?x)
         (\\)+
@@ -258,63 +180,8 @@ btokens = {
     "re_flags": re.compile(
         br'(?s)(\\.)|\(\?([aiLmsux]+)\)|(.)' if compat.PY3 else br'(?s)(\\.)|\(\?([iLmsux]+)\)|(.)'
     ),
-    "ascii_flag": b"a",
-    "re_posix": re.compile(
-        br'\[:(\^?(?:alnum|alpha|ascii|blank|cntrl|digit|graph|lower|print|punct|space|upper|word|xdigit)):\]'
-    ),
-    "posix": {
-        b"alnum": b"Alnum",
-        b"alpha": b"Alpha",
-        b"ascii": b"ASCII",
-        b"blank": b"Blank",
-        b"cntrl": b"Cntrl",
-        b"digit": b"Digit",
-        b"graph": b"Graph",
-        b"lower": b"Lower",
-        b"print": b"Print",
-        b"punct": b"Punct",
-        b"space": b"Space",
-        b"upper": b"Upper",
-        b"word": b"Word",
-        b"xdigit": b"XDigit",
-        b"^alnum": b"^Alnum",
-        b"^alpha": b"^Alpha",
-        b"^ascii": b"^ASCII",
-        b"^blank": b"^Blank",
-        b"^cntrl": b"^Cntrl",
-        b"^digit": b"^Digit",
-        b"^graph": b"^Graph",
-        b"^lower": b"^Lower",
-        b"^print": b"^Print",
-        b"^punct": b"^Punct",
-        b"^space": b"^Space",
-        b"^upper": b"^Upper",
-        b"^word": b"^Word",
-        b"^xdigit": b"^XDigit"
-    }
+    "ascii_flag": b"a"
 }
-
-
-def _get_unicode_category(prop, negate=False):
-    """Retrieve the unicode category from the table."""
-
-    if not negate:
-        p1, p2 = (prop[0], prop[1]) if len(prop) > 1 else (prop[0], None)
-        return ''.join(
-            [v for k, v in uniprops.unicode_properties.get(p1, {}).items() if not k.startswith('^')]
-        ) if p2 is None else uniprops.unicode_properties.get(p1, {}).get(p2, '')
-    else:
-        p1, p2 = (prop[0], prop[1]) if len(prop) > 1 else (prop[0], '')
-        return uniprops.unicode_properties.get(p1, {}).get('^' + p2, '')
-
-
-def _get_posix_category(prop):
-    """Retrieve the posix category."""
-
-    if isinstance(prop, compat.binary_type):
-        return uniprops.bposix_properties[prop.decode('utf-8')]
-    else:
-        return uniprops.posix_properties[prop]
 
 
 # Break apart template patterns into char tokens
@@ -562,6 +429,10 @@ class SearchTemplate(object):
         self._ascii_flag = tokens["ascii_flag"]
         self._esc_end = ctokens["esc_end"]
         self._end = ctokens["end"]
+        self._re_property_strip = tokens['re_property_strip']
+        self._re_property_gc = tokens.get('re_property_gc', None)
+        self._property_amp = tokens["property_amp"]
+        self._property_c = tokens["property_c"]
         self._uni_prop = tokens["uni_prop"]
         self._inverse_uni_prop = tokens["inverse_uni_prop"]
         self._lc = ctokens["lc"]
@@ -574,7 +445,6 @@ class SearchTemplate(object):
         self._ascii_lower = tokens["ascii_lower"]
         self._re_flags = tokens["re_flags"]
         self._re_posix = tokens["re_posix"]
-        self._posix = tokens["posix"]
         self._nl = ctokens["nl"]
         self._hashtag = ctokens["hashtag"]
         self.search = search
@@ -664,78 +534,84 @@ class SearchTemplate(object):
             quotes.append((quote_start + 2, pos - 1))
         return groups, quotes
 
-    def posix_props(self, prop, force_unicode=False):
-        """Insert posix properties."""
+    def posix_props(self, prop):
+        """
+        Insert posix properties.
 
-        if self.unicode or force_unicode:
-            pattern = uniprops.posix_unicode_properties[self._posix[prop]]
-        else:
-            pattern = _get_posix_category(self._posix[prop])
+        Posix style properties are not as forgiving
+        as Unicode properties.  Case does matter,
+        and whitespace and '-' and '_' will not be tolerated.
+        """
+
+        try:
+            if self.binary or not self.unicode:
+                pattern = uniprops.get_posix_property(prop)
+            else:
+                pattern = uniprops.get_posix_property(prop, uni=True)
+        except Exception:
+            raise ValueError('Invalid POSIX property!')
 
         return [pattern]
 
     def unicode_props(self, props, in_group, negate=False):
-        """Insert unicode properties."""
+        """
+        Insert unicode properties.
 
-        properties = []
-        if len(props) > 2:
-            if props in uniprops.posix_unicode_properties:
-                # \p{posixclasses}
-                if not in_group:
-                    v = uniprops.posix_unicode_properties[props]
-                    if negate:
-                        v = self._ls_bracket + self._negate + v + self._rs_bracket
-                    else:
-                        v = self._ls_bracket + v + self._rs_bracket
-                else:
-                    # if props.startswith(self._negate):
-                    #     negate = not negate
-                    # if not negate and props.startswith(self._negate):
-                    #     props = props[1:]
-                    # elif negate and not props.startswith(self._negate):
-                    if negate:  # For now unless I add support for \p{^Alnum}
-                        props = self._negate + props
+        Unicode properties are very forgiving.
+        Case doesn't matter and [ -_] will be stripped out.
+        """
 
-                    v = uniprops.posix_unicode_properties[props]
-                properties = [v]
-                props = None
+        # 'GC = Some_Unpredictable-Category Name' -> 'gc=someunpredictablecategoryname'
+        props = self._re_property_strip.sub(self._empty, props.lower())
+        category = None
+
+        # \p{^negated} Strip off the caret after evaluation.
+        if props.startswith(self._negate):
+            negate = not negate
+        if props.startswith(self._negate):
+            props = props[1:]
+
+        # Get the property and value.
+        # If a property is present and not block,
+        # we can assume GC as that is all we support.
+        # If we are wrong it will fail.
+        m = self._re_property_gc.match(props)
+        props = m.group(2)
+        if m.group(1):
+            if uniprops.is_enum(m.group(1)):
+                category = m.group(1)
+            elif m.group(2) in ('y', 'n', 'yes', 'no', 't', 'f', 'true', 'false'):
+                if m.group(2) in ('n', 'no', 'f', 'false'):
+                    negate = not negate
+                category = 'binary'
             else:
-                # \p{Full_Unicode_Property_Name}
-                props = unicode_property_map.get(props, None)
+                raise ValueError('Invalid Unicode property!')
 
-        if props is not None:
-            if not in_group:
-                v = _get_unicode_category(props)
-                if v is not None:
-                    if negate:
-                        v = self._ls_bracket + self._negate + v + self._rs_bracket
-                    else:
-                        v = self._ls_bracket + v + self._rs_bracket
-                    properties = [v]
-            else:
-                v = _get_unicode_category(props, negate)
-                if v is not None:
-                    properties = [v]
+        v = uniprops.get_unicode_property((self._negate if negate else self._empty) + props, category)
+        if not in_group:
+            v = self._ls_bracket + v + self._rs_bracket
+        properties = [v]
+
         return properties
 
-    def ascii_props(self, case, in_group, negate=False):
-        """Insert ascii (or unicode) case properties."""
+    def letter_case_props(self, case, in_group, negate=False):
+        """Insert letter (ascii or unicode) case properties."""
 
         # Use traditional ASCII upper/lower case unless:
         #    1. The strings fed in are not binary
         #    2. And the the unicode flag was used
-        if self.binary or not self.unicode:
-            v = _get_posix_category(self._ascii_upper if case == _UPPER else self._ascii_lower)
-            if not in_group:
-                if negate:
-                    v = self._ls_bracket + self._negate + v + self._rs_bracket
-                else:
-                    v = self._ls_bracket + v + self._rs_bracket
-            elif negate:
-                v = _get_posix_category(self._negate + (self._ascii_upper if case == _UPPER else self._ascii_lower))
-            return [v]
+        if not in_group:
+            v = self.posix_props(
+                (self._negate if negate else self._empty) +
+                (self._ascii_upper if case == _UPPER else self._ascii_lower)
+            )
+            v[0] = self._ls_bracket + v[0] + self._rs_bracket
         else:
-            return self.unicode_props('Lu' if case == _UPPER else 'Ll', in_group, negate)
+            v = self.posix_props(
+                (self._negate if negate else self._empty) +
+                (self._ascii_upper if case == _UPPER else self._ascii_lower)
+            )
+        return v
 
     def comments(self, i):
         """Handle comments in verbose patterns."""
@@ -797,13 +673,13 @@ class SearchTemplate(object):
                 elif c.startswith(self._inverse_uni_prop):
                     self.extended.extend(self.unicode_props(c[2:-1], self.in_group(i.index - 1), negate=True))
                 elif c == self._lc:
-                    self.extended.extend(self.ascii_props(_LOWER, self.in_group(i.index - 1)))
+                    self.extended.extend(self.letter_case_props(_LOWER, self.in_group(i.index - 1)))
                 elif c == self._lc_span:
-                    self.extended.extend(self.ascii_props(_LOWER, self.in_group(i.index - 1), negate=True))
+                    self.extended.extend(self.letter_case_props(_LOWER, self.in_group(i.index - 1), negate=True))
                 elif c == self._uc:
-                    self.extended.extend(self.ascii_props(_UPPER, self.in_group(i.index - 1)))
+                    self.extended.extend(self.letter_case_props(_UPPER, self.in_group(i.index - 1)))
                 elif c == self._uc_span:
-                    self.extended.extend(self.ascii_props(_UPPER, self.in_group(i.index - 1), negate=True))
+                    self.extended.extend(self.letter_case_props(_UPPER, self.in_group(i.index - 1), negate=True))
                 elif c[0:1] in self._verbose_tokens:
                     self.extended.append(t)
                 elif c == self._quote:
@@ -1016,7 +892,6 @@ def _apply_search_backrefs(pattern, flags=0):
         elif bool(UNICODE & flags):
             re_unicode = True
         pattern = SearchTemplate(pattern, re_verbose, re_unicode).apply()
-
     return pattern
 
 
