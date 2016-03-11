@@ -3,6 +3,7 @@
 	[
 		"jsx",
 		"es6",
-		"js"
+		"js",
+		"coffee"
 	]
 }

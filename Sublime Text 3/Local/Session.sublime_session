@@ -1,17 +1,43 @@
 {
 	"folder_history":
 	[
-		"/Users/dbus/Projekte/wasch-server",
-		"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets",
-		"/Users/dbus/Projekte/react-flux-simple-app",
+		"/Users/dbus/Projekte/Maxdome/component-common-styles",
+		"/Users/dbus/Projekte/Netlight/hubot-google-translate",
+		"/Users/dbus/Projekte/Netlight/hubot",
+		"/Users/dbus/Projekte/Maxdome/web-components",
+		"/Users/dbus/Projekte/Maxdome/web-components/node_modules/component-common-styles",
+		"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome",
+		"/Users/dbus/Projekte/Maxdome/web-components/node_modules/eslint-config-maxdome",
+		"/Users/dbus/Desktop/study-node-path-es6",
+		"/Users/dbus/Projekte/Maxdome/test-fw",
+		"/Users/dbus/Projekte/Maxdome/component-navigation/lib",
+		"/Users/dbus/Projekte/Maxdome/component-header",
+		"/Users/dbus/Projekte/Maxdome/web-lint",
+		"/Users/dbus/Projekte/Maxdome/component-header/submodules/component-common-styles",
+		"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js",
+		"/Users/dbus/Projekte/Maxdome",
+		"/Users/dbus/Projekte/Maxdome/component-navigation",
+		"/Users/dbus/Projekte/Pro7Sat1/adaptive",
+		"/Users/dbus/Projekte/Pro7Sat1/adaptive/dist",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone",
+		"/Users/dbus/Projekte/Pro7Sat1/Variants",
+		"/Users/dbus/Desktop/es6-karma-jasmine-webpack-boilerplate",
+		"/Users/dbus/Projekte/Pro7Sat1/abTest",
+		"/Users/dbus/Projekte/js-seed",
+		"/Users/dbus/Projekte/Pro7Sat1/AdaptiveAds",
+		"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static",
+		"/Users/dbus/Library/Application Support/Google/Chrome Canary/Default",
+		"/Users/dbus/Dropbox/Apps",
+		"/Users/dbus/Projekte/FischApp",
+		"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets",
+		"/Users/dbus/Projekte/wasch-server",
+		"/Users/dbus/Projekte/react-flux-simple-app",
 		"/Users/dbus/Desktop/cards-display-test",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/7tv/js",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone/node_modules",
 		"/Users/dbus/Projekte/Netlight/resume_42",
 		"/Users/dbus/Projekte/Pro7Sat1/psd-voting",
 		"/Users/dbus/Projekte/Netlight/colleagues",
-		"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone/node_modules/react-modal",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone/vagrant",
 		"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-secure-static",
@@ -66,12 +92,12 @@
 		"/Users/dbusser/Dropbox/Apps/angular",
 		"/Users/dbusser/Apps/Opex%20Website/img"
 	],
-	"last_version": 3083,
-	"last_window_id": 519,
+	"last_version": 3103,
+	"last_window_id": 699,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 777.0,
+		"new_window_height": 780.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -79,8 +105,244 @@
 				"selected_items":
 				[
 					[
+						"build",
+						"buildImageUrl"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"get",
+						"getBackgroundImageStyles"
+					],
+					[
+						"render",
+						"renderReviewPreview"
+					],
+					[
+						"player",
+						"playerIsOpenMobile"
+					],
+					[
+						"pl",
+						"playerIsOpenDesktop"
+					],
+					[
+						"playeri",
+						"playerIsOpenDesktop"
+					],
+					[
+						"play",
+						"playerIsOpenMobile"
+					],
+					[
+						"Pro",
+						"propTypes"
+					],
+					[
+						"highlighte",
+						"highlightedReviews"
+					],
+					[
+						"backgr",
+						"backgroundImage"
+					],
+					[
+						"bak",
+						"backgroundImage"
+					],
+					[
+						"maxp",
+						"MAXPERT_HEIGHT"
+					],
+					[
+						"MAXP",
+						"MAXPERT_WIDTH"
+					],
+					[
+						"asset",
+						"ASSET_HEIGHT"
+					],
+					[
+						"ASS",
+						"ASSET_WIDTH"
+					],
+					[
+						"prop",
+						"propTypes"
+					],
+					[
+						"fet",
+						"fetchMaxpert"
+					],
+					[
+						"highligh",
+						"highlightedReviews"
+					],
+					[
+						"subject",
+						"subjectiveCollection"
+					],
+					[
+						"st",
+						"stubs.js"
+					],
+					[
+						"Max",
+						"MaxpertInfoHeader"
+					],
+					[
+						"max",
+						"maxpertId"
+					],
+					[
+						"right",
+						"rightGroup"
+					],
+					[
+						"left",
+						"leftNavigation"
+					],
+					[
+						"login",
+						"login_status"
+					],
+					[
+						"log",
+						"login_status"
+					],
+					[
+						"navigatio",
+						"navigationItems"
+					],
+					[
+						"navi",
+						"navigationItems"
+					],
+					[
+						"a",
+						"api/"
+					],
+					[
+						"nav",
+						"navigationItems"
+					],
+					[
+						"Naviga",
+						"NavigationElement"
+					],
+					[
+						"Navigt",
+						"NavigationElement"
+					],
+					[
+						"Navi",
+						"NavigationElement"
+					],
+					[
+						"Nav",
+						"NavigationGroup.jsx"
+					],
+					[
+						"Navig",
+						"NavigationGroup"
+					],
+					[
+						"pro",
+						"props"
+					],
+					[
+						"Subjective",
+						"SubjectiveCollection"
+					],
+					[
+						"user",
+						"userNavigations"
+					],
+					[
+						"chunk",
+						"chunkArray"
+					],
+					[
+						"webpack",
+						"webpackConfig"
+					],
+					[
+						"N",
+						"Navigation.jsx"
+					],
+					[
+						"Prop",
+						"PropTypes"
+					],
+					[
+						"ada",
+						"adaptive.min.js"
+					],
+					[
+						"variant",
+						"variantValid"
+					],
+					[
+						"var",
+						"variantName"
+					],
+					[
+						"Test",
+						"TestCases"
+					],
+					[
+						"Ad",
+						"AdConfigAdapter"
+					],
+					[
+						"to",
+						"toEqual"
+					],
+					[
+						"cookie",
+						"cookieName"
+					],
+					[
+						"expire",
+						"expiredVariant"
+					],
+					[
+						"coio",
+						"cookieName"
+					],
+					[
+						"cooki",
+						"cookieName"
+					],
+					[
+						"assigned",
+						"assignedVariant"
+					],
+					[
+						"Sendun",
+						"SendungVerpasstTrigger"
+					],
+					[
+						"Hea",
+						"HeaderTrigger.jsx"
+					],
+					[
+						"Header",
+						"HeaderTrigger"
+					],
+					[
+						"E",
+						"EPG_Error"
+					],
+					[
 						"Top",
-						"ToplistTeaserComponent.jsx"
+						"ToplistApi.jsx"
+					],
+					[
+						"MoD",
+						"ModalButtons.jsx"
 					],
 					[
 						"Moda",
@@ -117,10 +379,6 @@
 					[
 						"e",
 						"eslint"
-					],
-					[
-						"webpack",
-						"webpack-ezone"
 					],
 					[
 						"date",
@@ -323,10 +581,6 @@
 						"dist/"
 					],
 					[
-						"get",
-						"getBoard"
-					],
-					[
 						"create",
 						"createBoard"
 					],
@@ -361,50 +615,6 @@
 					[
 						"ang",
 						"angular.js"
-					],
-					[
-						"contr",
-						"controller"
-					],
-					[
-						"bower_",
-						"bower_components"
-					],
-					[
-						"calcula",
-						"calculateSecurity"
-					],
-					[
-						"cal",
-						"calculateSecurity"
-					],
-					[
-						"ex",
-						"expect"
-					],
-					[
-						"flex-",
-						"flex-direction"
-					],
-					[
-						"flex",
-						"flex-direction"
-					],
-					[
-						"c",
-						"corporation"
-					],
-					[
-						"fore",
-						"foreach	<?php foreach (…) … <?php endforeach ?>"
-					],
-					[
-						"forea",
-						"foreach	foreach"
-					],
-					[
-						"if",
-						"ifelse	ifelse"
 					]
 				]
 			},
@@ -414,17 +624,201 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 169.0,
-				"last_filter": "commit",
+				"height": 392.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"commit",
-						"Set Syntax: Git: Commit-Message"
+						"lint this",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint ti",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"format",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"lint this ",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"reinde",
+						"JSON Reindent: reindent file or selection"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"Snippet: propt",
+						"Snippet: React.PropTypes"
+					],
+					[
+						"autofile",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Snippet: ",
+						"Snippet: MaxdomeComponent"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"convert to",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"lint v",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"forma",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"lint thi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"fmt",
+						"JSFMT: Settings - User"
+					],
+					[
+						"jscs",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"lint view",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint t",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"foramt",
+						"JSFMT: Format the current file"
+					],
+					[
+						"gutter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"editorc",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"lint vie",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"Fro",
+						"Format Code"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"lint hi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"convet",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"create sep",
+						"Jasmine: Create spec file"
+					],
+					[
+						"switch",
+						"Jasmine: Switch between code and spec"
+					],
+					[
+						"jasmine",
+						"Jasmine (legacy): Switch between code and spec"
+					],
+					[
+						"spec file",
+						"Jasmine: Create spec file"
+					],
+					[
+						"vlai",
+						"Vertical Align"
+					],
+					[
+						"valign",
+						"Vertical Align"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"linte v",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint vi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"swap",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"commit",
+						"Set Syntax: Git: Commit-Message"
 					],
 					[
 						"php",
@@ -447,18 +841,6 @@
 						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
-						"lint v",
-						"SublimeLinter: Lint This View"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"scss",
-						"Set Syntax: SCSS"
-					],
-					[
 						"sass",
 						"Set Syntax: Sass"
 					],
@@ -467,40 +849,8 @@
 						"Set Syntax: CSS3"
 					],
 					[
-						"lint t",
-						"SublimeLinter: Lint This View"
-					],
-					[
-						"lint",
-						"SublimeLinter: Toggle Linter"
-					],
-					[
-						"lint vi",
-						"SublimeLinter: Lint This View"
-					],
-					[
-						"reind",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"html",
-						"HTMLBeautify"
-					],
-					[
-						"babel",
-						"Set Syntax: JavaScript (Babel)"
-					],
-					[
-						"format",
-						"JSFMT: Format the current file"
-					],
-					[
 						"instlal",
 						"Package Control: Install Package"
-					],
-					[
-						"json",
-						"Set Syntax: JSON"
 					],
 					[
 						"delete",
@@ -509,10 +859,6 @@
 					[
 						"remvoe",
 						"Emmet: Remove Tag"
-					],
-					[
-						"lint view",
-						"SublimeLinter: Lint This View"
 					],
 					[
 						"jsb",
@@ -531,10 +877,6 @@
 						"JSFMT: Toggle autoformat"
 					],
 					[
-						"lint ",
-						"SublimeLinter: Lint This View"
-					],
-					[
 						"jsfm",
 						"JSFMT: Format the current file"
 					],
@@ -545,10 +887,6 @@
 					[
 						"Snippet: class",
 						"Snippet: babel-class"
-					],
-					[
-						"autofile",
-						"AutoFileName: Quick Settings"
 					],
 					[
 						"auto",
@@ -591,16 +929,8 @@
 						"Snippet: React: import cx from 'classnames';"
 					],
 					[
-						"valign",
-						"Vertical Align"
-					],
-					[
 						"copy",
 						"File: Copy Path"
-					],
-					[
-						"convert",
-						"Indentation: Convert to Tabs"
 					],
 					[
 						"package",
@@ -631,10 +961,6 @@
 						"SublimeLinter: Show All Errors"
 					],
 					[
-						"gutter",
-						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
 						"mark st",
 						"SublimeLinter: Choose Mark Style"
 					],
@@ -645,10 +971,6 @@
 					[
 						"gutter them",
 						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
-						"jscs",
-						"Set Syntax: JavaScript (Rails)"
 					],
 					[
 						"disable linter",
@@ -665,10 +987,6 @@
 					[
 						"isntall",
 						"Package Control: Install Package"
-					],
-					[
-						"sort",
-						"Sort Lines"
 					],
 					[
 						"jsc",
@@ -693,10 +1011,6 @@
 					[
 						"requi",
 						"Require"
-					],
-					[
-						"lint this",
-						"SublimeLinter: Lint This View"
 					],
 					[
 						"linter",
@@ -825,110 +1139,6 @@
 					[
 						"prefe",
 						"Preferences: Settings - User"
-					],
-					[
-						"jshint",
-						"JSHint: Set Linting Preferences"
-					],
-					[
-						"jshin",
-						"JSHint"
-					],
-					[
-						"b",
-						"Babel Transform"
-					],
-					[
-						"javs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"jsx",
-						"Set Syntax: JSX"
-					],
-					[
-						"reinde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"jax",
-						"Set Syntax: JavaScript (JSX)"
-					],
-					[
-						"jslint",
-						"JSHint: Set Linting Preferences"
-					],
-					[
-						"Package Control: remove",
-						"Package Control: Remove Channel"
-					],
-					[
-						"hint",
-						"JSHint: Set Plugin Options"
-					],
-					[
-						"jsho",
-						"JSHint: Set `node` Path"
-					],
-					[
-						"jsl",
-						"JSHint: Set Plugin Options"
-					],
-					[
-						"user ",
-						"Preferences: Settings - User"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"toggle",
-						"Jasmine: Toggle quotes"
-					],
-					[
-						"toggle qu",
-						"Jasmine: Toggle quotes"
-					],
-					[
-						"jasmine",
-						"Jasmine (legacy): Switch between code and spec"
-					],
-					[
-						"jasm",
-						"Jasmine: Create spec file"
-					],
-					[
-						"jasmin",
-						"Jasmine: Create spec file"
-					],
-					[
-						"JSON",
-						"Pretty JSON: Validate"
-					],
-					[
-						"convr",
-						"Convert Case: Upper Case"
-					],
-					[
-						"jsf",
-						"Javascript Beautify"
-					],
-					[
-						"change ",
-						"ChangeQuotes"
-					],
-					[
-						"javas",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"",
-						"Add some Lorem Gibson"
-					],
-					[
-						"fold all",
-						"Code Folding: Unfold All"
 					]
 				],
 				"width": 593.0
@@ -957,144 +1167,168 @@
 			},
 			"file_history":
 			[
-				"/Users/dbus/Projekte/wasch/index.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.git/rebase-merge/git-rebase-todo",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/settings/toplists.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdframework/modules/psdframework/topclips.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/node/view/singleteaser/medium.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistTeaserComponent.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistApi.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdReactComponents.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/FormatEPG_mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util/request.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_TVProgrammOnly.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_full.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/full.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/standalone.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/header.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/header.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/footer.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static/Makefile",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/ezone.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.eslintrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util/date.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/teasers.html",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/Modal.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalContent.jsx",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/jsfmt.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/psd/clipsplitter/src/Exception/PsdClipSplitterException.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.esformatter",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/design/7tvdesign/templates/node/view/singleteaser/short.tpl",
-				"/Users/dbus/Desktop/foo.jsx",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/EsFormatter.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/jsfmt/jsfmt.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-face/MaxpertFace.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/Separator.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed/ReviewFeed.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert/Maxpert.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/asset-cover/AssetCover.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/SubjectiveCollection.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/develop.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/util/util.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationElement.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Api.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/three-er/ThreeEr.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack.config.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-player/VideoPlayer.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/ReviewFeedItem.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-mini/ReviewMini.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-info-header/MaxpertInfoHeader.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-overview-list/MaxpertOverviewList.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-info-header/MaxpertInfoHeader.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/fixtures/sampleData.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/Header.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/Navigation.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/index.html",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/search/Search.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Carousel.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/resume-bar/ResumeBar.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/asset-reviews/asset-review-feed-item/AssetReviewFeedItem.jsx",
+				"/Users/dbus/pack",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-player/VideoPlayer.styles.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/ReviewFeedItem.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components.sublime-project",
+				"/Users/dbus/Projekte/Maxdome/web-components/.babelrc",
+				"/Users/dbus/Projekte/Maxdome/web-components/dist/web-components.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Decorators.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/LeftControlButton.jsx",
+				"/private/tmp/index.html",
+				"/private/tmp/web-components.js",
+				"/private/tmp/web",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/package.json",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/src/Mxd/CommonBundle/Resources/js/webapp.js",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/webpack.config.js",
+				"/private/tmp/webapp.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/Header.scss",
 				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/dbus/.jsfmtrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/tests/testcases/frontend/format.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.editorconfig",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-modal/VideoModal.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert/Maxpert.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/styles.context.js",
+				"/Users/dbus/.bitbar/jenkins.sh",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/Separator.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/SubjectiveCollection.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/search/Search.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/three-er/ThreeEr.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-mini/ReviewMini.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed/ReviewFeed.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/RecentlyWatched.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-overview-list/MaxpertOverviewList.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-face/MaxpertFace.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/Find Results",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Carousel.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/util/__tests__/util.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/develop",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/stubs/stubs.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/node_modules/lodash/util.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/FullTextReviewToggle.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-teaser/ReviewTeaser.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-teaser/ReviewTeaser.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/__tests__/Navigation.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/RecentlyWatched.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/__tests__/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review-feed/ReviewFeed.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/Review.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/Review.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/test/Navigation.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/README.md",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Api.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/test/Separator.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.tests.eslintrc",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/test.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationGroup.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationSubList.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/index.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.eslintrc",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/React.PropTypes.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/full-width-feed-review/FullWidthFeedReview.jsx",
 				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/babel-class.sublime-snippet",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistTeasers.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/TimeoutModal.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/classes/templatecontrollers/psdTimeOutModalController.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/desktop.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTabs.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/webpack-ezone.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/jquery.ui.custom.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/psd/psd.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzContainer.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/Makefile",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzFullEPG.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/Map Local.xml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/vendor.bundle.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEz.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdflow/design/standard/javascript/jq.scheduledialog.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/webpack-7tv.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/production-7tv.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/preprod-7tv.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/node_modules/jquery/src/ajax/script.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/app.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/mobile.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/m.script.js",
-				"/Users/dbus/Downloads/vendor.bundle.min.js.map",
-				"/Users/dbus/Desktop/foo.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdmultichanneldata/webpack.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/page_head.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/settings/design.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/preprod.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/production.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/settings/design.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/epg/components/full/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/footer.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTimeoutModal.jsx",
-				"/Users/dbus/.jscsrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzRecipe.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzNWT.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.jscsrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/browserupdate.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Babel.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/esformatter.json",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/ModalOverlay.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/Capfile",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Git.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/fabpot/php-cs-fixer/Symfony/CS/LintManager.php",
-				"/Users/dbus/Desktop/untitled.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/doc/INSTALL",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/fabpot/php-cs-fixer/Symfony/CS/Fixer/Contrib/AlignEqualsFixer.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/lodash-custom.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/shared/js/modules/videoPlayerController.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/VideoPlayerDelegate.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/kernel/collaboration/item.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/libs/browserUpdate.js",
-				"/Users/dbus/.eslintrc",
-				"/private/tmp/test.js",
-				"/Users/dbus/Downloads/calendar (4).ics",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/7tv/sass/components/_multiteaser.scss",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static/css/sat1gold.css",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzSocialEmbeds.js",
-				"/private/tmp/app.min.js?v=ad9906a60",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/7tv.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/7tv/js/app.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/node_modules/react-modal/webpack.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/app.css",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdframework/classes/templatecontrollers/psdpageheadcontroller.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdutils/classes/operators/psdutils_operators.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/fixtures/ezone/test-content/article.yaml"
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/test/Separator.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/test/RecentlyWatched.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/index.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/node_modules/test-fw/index.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/.editorconfig",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/MaxdomeComponent.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/maxpert/Maxpert.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/maxpert/test/Maxpert.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.base.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.dev.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Request.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/api/NavigationApi.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/react.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationItem.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationList.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.prod.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/app.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/test/SubjectiveCollection.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/test/Review.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/test/Header.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/util/chunkArray.jsx",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/promise.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/mock/navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/test-fw/include-component-style.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.test.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/.eslintrc",
+				"/Users/dbus/Projekte/Maxdome/web-components/karma.config.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/Header.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/Calculator.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/Header.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/dasdsa.as",
+				"/Users/dbus/Projekte/Maxdome/component-common-styles/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/tests.webpack.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.gitignore",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/package.json",
+				"/Users/dbus/Projekte/Maxdome/component-header/package.json",
+				"/Users/dbus/Projekte/Maxdome/component-header/submodules/component-navigation/lib/scss/component-navigation.scss",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/index.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/NavigationSubList.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/NavigationList.jsx"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 102.0,
 				"where_history":
 				[
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.js",
+					"<project>,*.*",
+					"<project>,*.js",
+					"<project>,",
+					"<project>,*.scss",
+					"<project>,*.*",
+					"<project>,*.php",
+					"<project>,*.scss",
+					"<project>,*.*",
+					"<project>,*.js",
+					"<project>,*.tpl",
+					"<project>,*.jsx",
+					"<current file>",
+					"*.js",
+					"<current file>.tpl",
 					"<current file>",
 					"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/FormatEPG_mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_TVProgrammOnly.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_full.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/full.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/standalone.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util",
 					"<current file>",
@@ -1180,141 +1414,150 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"deploy",
-					"datestr",
-					"var ",
-					"20px",
-					"#FFFFFF",
-					"#ffffff",
-					"#FFFFFF",
-					"var",
-					"    <d",
-					"^\\n",
-					"\n\n\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n",
-					"\n\n\n\n\n",
-					"\n\n\n\n",
-					"\n\n\n",
-					"\n\n",
-					"\\n",
-					"\n",
-					"teaser_140x79",
-					"\"http://i3.p7.com/pis/ezone/0419qgELB38wdFJg-g8CUJGraflJHkyGeBC5xO5JC3kVKXcAaPkB2nqAQuUwznPjSJdtuoJFJicSZSGre2coBvpKb4RrJXvj7IXwK6DM4j1MDLDf6SiXrpbVsVZYjkFV-6YFW5ArS-csGoHrBapiFO8EE4Q0i-rSidrDBE7lAVynSlVEIjgmovesmPh-TeIHYuMP_BVkVAUiM-yd2fQ0B7gAZst0jj6C0sl8MbMw0L0qWTPKGKKGRxuEXxGjdtBPusOqtqV9erywzmzU_tY7b7x684T_1JdkQM9r0I6cq43e2l-tcDJvxqcyXR504nGy_7HpW7hf0Mz-CbrvO8tNxBS9R5WOrR5JWOsrqncT5LIUTyrc6w/profile:ezone-teaser229x122",
-					"http://i3.p7.com/pis/ezone/0419qgELB38wdFJg-g8CUJGraflJHkyGeBC5xO5JC3kVKXcAaPkB2nqAQuUwznPjSJdtuoJFJicSZSGre2coBvpKb4RrJXvj7IXwK6DM4j1MDLDf6SiXrpbVsVZYjkFV-6YFW5ArS-csGoHrBapiFO8EE4Q0i-rSidrDBE7lAVynSlVEIjgmovesmPh-TeIHYuMP_BVkVAUiM-yd2fQ0B7gAZst0jj6C0sl8MbMw0L0qWTPKGKKGRxuEXxGjdtBPusOqtqV9erywzmzU_tY7b7x684T_1JdkQM9r0I6cq43e2l-tcDJvxqcyXR504nGy_7HpW7hf0Mz-CbrvO8tNxBS9R5WOrR5JWOsrqncT5LIUTyrc6w/profile:ezone-teaser229x122",
-					"http://dev.imageservice.sim-technik.de/pis/ezone/c40eqgELB38wdEHMCR__a2wEMqvePKre7Bx_1rkRJDL-O05QQUZHQjrqlMp1FTHo1wJZoSTdW3C3t8_2HXY20LiAbsCxdLOl8VqwU-zlo206Py4r4cGFUs6g2gT-iG8MRbW9JTsFtWZ94Bs40fWEuvObK1ESR1E1zm-DKj6bIOJTpAU2JTuQPFu981-n47whLJT2zg/profile:ezone-teaser140x79",
-					"Users/dbus/Projekte/Pro7Sat1/ezone",
-					"dbus@mbp ~/P/P/ezone",
-					" (psd/PSDWEBAPP-1365-timeout-overlay-toplists)",
-					"\n",
-					"//",
-					"request",
-					"VIDEOPAGE_CSS_CLASSES",
-					"TimeoutModalComponent",
-					"TimeoutModal",
-					"psdTimeOutModalController",
-					"teasers",
-					"ModalContent",
-					"Teasers",
-					"teasers",
-					"Teasers",
-					"teasers",
-					"teaserNodeId",
-					"elapsed",
-					"openmodalafter",
-					"js.length - 2",
-					"js[(js.length - 2)]",
-					"removedempty",
+					"maxpertface",
+					"subjective",
+					"ComponentName",
+					"defaultprops",
+					"openvideo",
+					"bottom:",
+					"$dark-gray",
+					"quote",
+					"buildAssetUrlWithAnchor",
+					"genitiv",
+					"classnames",
+					"hasvideosf",
+					"eslint",
+					"transition",
+					"styles",
+					"Abspielen",
+					"Play",
+					"searchresults",
+					"hot",
+					"hmr",
+					"hot",
+					"strict",
+					"\"use strict\"",
+					"'use strict'",
+					"use strict",
+					"localhost",
+					"b8cdef6e3d0275beff0d6f38004549a242f669bc",
+					"decoratr",
+					"localhost",
+					" { ...this.getSlidesToShow() }",
+					"_component",
+					"Multiple definitions of a property not allowed in strict mode",
+					"videoplayer",
+					".trailer-button-wrapper",
+					"vertical-center",
+					"review",
+					"HEIGHT",
+					"WIDTH",
+					"TrailerPlayer",
+					"modalupdate",
+					"from 'classnames'",
+					"REactModal",
+					"openPlayerMobile",
+					"renderModal",
+					"renderVideoPlayer",
+					"videos",
+					"this.props.vid",
+					"renderVideoPlayer",
+					"default",
+					"screenmode",
+					"_listenForEsc",
+					"this.state",
+					"styles",
+					"renderModal",
+					"onscreen",
+					"trailerplayer",
+					"ref",
+					"Review",
+					"review",
+					"Review",
+					"modal",
+					"ago",
+					"background-image",
+					"style",
+					"reviews",
+					"stubs",
+					"err2",
+					"publicationResponse",
+					"import Api",
+					"highlightedReviews",
+					"maxpertResponse",
+					"props",
+					"hasvideo",
+					"&.open",
+					"top-bar",
+					"test",
+					"testsContext",
+					"href",
+					"@import \"~component-common-styles\";\n\n",
+					"@import \"~component-common-styles\";\n",
+					"global",
+					"@import \"~component-common-styles\";",
+					"cx({",
+					"background-color: #e1faea;",
+					"quote",
+					"background",
+					"review.maxpert[0]",
+					"title",
+					"componentId",
+					"styleBgImage",
+					"bgURL",
+					"reviewerImage",
+					"props.reviewer",
+					"collectionId",
 					"id",
-					"epg__tabs",
-					"	 ",
-					"indent",
-					"scrollToElement",
-					"indent",
-					"tabs",
-					"defaultweekdays",
-					"schedule-absolute-date",
-					"overl",
-					"drm",
-					"infini",
-					"basic",
-					"FrontendJavaScriptList",
-					"script src",
-					"script",
-					"desktop",
-					"desktopPSDWEBAPP-478-search-target-blank",
-					"getoffsetdate",
-					"utils",
-					"./",
-					"(\"",
-					"./",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"require(\"epg/",
-					"./modules/epg/",
-					"\n{",
+					"-title",
+					"star",
+					"replaceUrl",
+					"divStyle",
+					"introd",
+					"fullReview",
+					"buildIm",
+					"state.",
+					"response2",
+					"response",
+					"Response",
+					"response",
+					"reviewer",
+					", ",
+					"@import \"~component-common-styles\";",
+					"review",
 					"\n",
-					"\n{",
-					"{",
-					"utils",
-					"dateUtils",
-					"require",
-					"utils",
-					"dateUtils",
-					",\n",
-					"nextEpisodes",
-					"NextEpisodes",
-					"nextEpisodes",
-					"NextEpisodes",
-					"utils",
-					"dataindex",
-					"handlechapteritemclick",
-					"item",
-					"playlist",
-					"item",
-					"ModalOverlay",
-					"modalOverlay",
-					"/Users/dbus/Projekte/Pro7Sat1/ezone",
-					"frontend/ezone/",
-					".\n",
-					"428",
-					"slick-slide",
-					"version_parameter",
-					"version_",
-					"parameter",
-					"copyright",
-					"console.log",
-					"window.console",
-					"console.log",
-					"console.err",
-					"gallery",
-					"React",
-					"Modal",
-					"findTabbableDescendants",
-					"Adapted from jQuery UI core",
-					"focusable",
-					"focusable(element, isTabIndexNotNaN)",
-					"function focusable(element, isTabIndexNotNaN) {",
-					"desktop",
-					"desktop css",
-					"desktop_css",
-					"timoeut",
-					"React.re",
-					"require(\"React\"",
-					"PSD = ",
-					"m.script.js",
-					"react",
-					"modal"
+					"\"",
+					"stubs",
+					"synopsis_short",
+					";\n",
+					"group-item",
+					"FullWidthFeedReview",
+					"content",
+					"reviewCallout",
+					"callout",
+					"fetchMaxpertReviewFor",
+					"callout",
+					"src",
+					"function ()",
+					"zum store",
+					"mam_asset_id[0].",
+					"Headlines from"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"",
+					"@import \"node_modules/component-common-styles\";",
+					"@import (reference) \"~component-common-styles\";",
+					"@import \"~component-common-styles\";\n@import (common) \"~component-common-styles\";",
+					"DateUtils",
+					"import DateUtils from \"modules/epg/util/date\";",
+					"import FullBroadcast from \"modules/epg/components/broadcast/full\";",
+					"import $1 from $2",
+					"import $1 from $2;",
 					"let ",
 					"",
 					"require(\"modules/epg/",
@@ -1364,10 +1607,14 @@
 			{
 				"height": 161.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 142.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 56.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1377,516 +1624,516 @@
 				"selected_items":
 				[
 					[
-						"modalwraper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
+						"util",
+						"src/util/util.jsx"
 					],
 					[
-						"timeoutmodal",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
+						"maxpert",
+						"src/components/maxpert/Maxpert.jsx"
 					],
 					[
-						"topclips",
-						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
+						"develop",
+						"develop.jsx"
 					],
 					[
-						"toplipse",
-						"htdocs/extension/7tv/settings/toplists.ini.append.php"
+						"subject",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
 					],
 					[
-						"medium.tpl",
-						"htdocs/extension/psd/design/psddesign/templates/node/view/singleteaser/medium.tpl"
+						"separat",
+						"src/components/separator/Separator.jsx"
 					],
 					[
-						"toplistapi",
-						"frontend/ezone/js/modules/timeoutModal/ToplistApi.jsx"
+						"assetcov",
+						"src/components/asset-cover/AssetCover.jsx"
 					],
 					[
-						"timeoutmoda",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
+						"api",
+						"src/api/Api.jsx"
 					],
 					[
-						"modalwra",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"psdreact",
-						"frontend/ezone/js/modules/psdReactComponents.jsx"
-					],
-					[
-						"timeout",
-						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
-					],
-					[
-						"eslintrc",
-						".eslintrc"
-					],
-					[
-						"psdreactc",
-						"frontend/ezone/js/modules/psdReactComponents.jsx"
-					],
-					[
-						"timeoutmodal.ss",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"timeoutmodal.scss",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"modal",
-						"frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx"
-					],
-					[
-						"modalwrap",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"modalwrapper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"buttons",
-						"frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx"
-					],
-					[
-						"topclips.php",
-						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
-					],
-					[
-						".jsx",
-						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
-					],
-					[
-						".esformatter",
-						".esformatter"
-					],
-					[
-						"short.tpl",
-						"htdocs/extension/7tv/design/7tvdesign/templates/node/view/singleteaser/short.tpl"
-					],
-					[
-						"modal.",
-						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
-					],
-					[
-						"modalcontent",
-						"frontend/ezone/js/modules/timeoutModal/ModalContent.jsx"
-					],
-					[
-						"modalrapper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"modalwar",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						".esformat",
-						".esformatter"
-					],
-					[
-						"format",
-						"tests/testcases/frontend/format.js"
-					],
-					[
-						".edi",
-						".editorconfig"
-					],
-					[
-						"timeoutmodal.scs",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"timeout_moda",
-						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
-					],
-					[
-						"psdtimeoutmo",
-						"htdocs/extension/psd/classes/templatecontrollers/psdTimeOutModalController.php"
-					],
-					[
-						"psdeztabs",
-						"frontend/ezone/js/modules/psdEzTabs.js"
+						"subjective",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
 					],
 					[
 						"webpack",
-						"webpack-ezone.config.js"
+						"webpack.config.js"
 					],
 					[
-						"maplocal",
-						"htdocs/var/common/cache/public/Map Local.xml"
+						"threer",
+						"src/components/reviews/three-er/ThreeEr.jsx"
 					],
 					[
-						"fullepg",
-						"frontend/ezone/js/modules/psdEzFullEPG.js"
+						"three",
+						"src/components/reviews/three-er/ThreeEr.jsx"
 					],
 					[
-						"psdezcta",
-						"frontend/ezone/js/modules/psdEzContainer.js"
+						"maxpertface",
+						"src/components/maxpert-face/MaxpertFace.jsx"
 					],
 					[
-						"makefil",
-						"Makefile"
+						"videplay",
+						"src/components/video-player/VideoPlayer.jsx"
 					],
 					[
-						"psdezta",
-						"frontend/ezone/js/modules/psdEzTabs.js"
+						"reviewmin",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
 					],
 					[
-						".editorcn",
+						"reviewfeeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"reviewmini",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"overview",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"maxpertinfoheader",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"sampedata",
+						"src/components/navigation/fixtures/sampleData.js"
+					],
+					[
+						"infoheader",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"header",
+						"src/components/header/Header.jsx"
+					],
+					[
+						"navigat",
+						"src/components/navigation/Navigation.scss"
+					],
+					[
+						"search",
+						"src/components/search/Search.jsx"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"deelop",
+						"develop.jsx"
+					],
+					[
+						"subjecti",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"carousel",
+						"src/components/carousel/Carousel.jsx"
+					],
+					[
+						"resumebar",
+						"src/components/resume-bar/ResumeBar.jsx"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"assetreview",
+						"src/components/asset-reviews/asset-review-feed-item/AssetReviewFeedItem.jsx"
+					],
+					[
+						"maxpertinfoheade",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"videopl",
+						"src/components/video-player/VideoPlayer.styles.js"
+					],
+					[
+						"navigation",
+						"src/components/navigation/Navigation.scss"
+					],
+					[
+						"maxpertinfo",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"reviewfee",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"reviewfeediete",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"babelrc",
+						".babelrc"
+					],
+					[
+						"develp",
+						"develop.jsx"
+					],
+					[
+						"webpac",
+						"webpack.config.js"
+					],
+					[
+						"carou",
+						"src/components/carousel/Carousel.jsx"
+					],
+					[
+						"develo",
+						"develop.jsx"
+					],
+					[
+						"babel",
+						".babelrc"
+					],
+					[
+						"we",
+						"webpack.config.js"
+					],
+					[
+						"decorat",
+						"src/components/carousel/Decorators.jsx"
+					],
+					[
+						"index.",
+						"index.html"
+					],
+					[
+						"deve",
+						"develop.jsx"
+					],
+					[
+						"videop",
+						"src/components/video-player/VideoPlayer.jsx"
+					],
+					[
+						"video",
+						"src/components/video-player/VideoPlayer.jsx"
+					],
+					[
+						"babelr",
+						".babelrc"
+					],
+					[
+						"reviewfeed",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"subj",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"maxpertover",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"maxper",
+						"src/components/maxpert/Maxpert.jsx"
+					],
+					[
+						"element",
+						"src/components/navigation/NavigationElement.jsx"
+					],
+					[
+						"navig",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"navigationelement",
+						"src/components/navigation/NavigationElement.jsx"
+					],
+					[
+						"subjectivecol",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"feeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"util.spec",
+						"src/util/__tests__/util.spec.js"
+					],
+					[
+						"reviewitem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"mini.jsx",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"util.jsx",
+						"src/util/util.jsx"
+					],
+					[
+						"itemrevief",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"stubs",
+						"src/stubs/stubs.js"
+					],
+					[
+						"overviewlist",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"api.",
+						"src/api/Api.jsx"
+					],
+					[
+						"pca",
+						"package.json"
+					],
+					[
+						"item",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"review",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"mini",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"separator",
+						"src/components/separator/Separator.jsx"
+					],
+					[
+						"reviewteser",
+						"src/components/reviews/review-teaser/ReviewTeaser.jsx"
+					],
+					[
+						"reviewteaser",
+						"src/components/reviews/review-teaser/ReviewTeaser.jsx"
+					],
+					[
+						"navi.spec.js",
+						"src/components/navigation/__tests__/Navigation.spec.js"
+					],
+					[
+						"recently",
+						"src/components/recently-watched/RecentlyWatched.jsx"
+					],
+					[
+						"reviwfeeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"deveop",
+						"develop.jsx"
+					],
+					[
+						"maxpertinf",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"review.scs",
+						"src/components/review/Review.scss"
+					],
+					[
+						"revieffeed",
+						"src/components/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"devel",
+						"develop.jsx"
+					],
+					[
+						"fullwidth",
+						"src/components/full-width-feed-review/FullWidthFeedReview.jsx"
+					],
+					[
+						"maxp",
+						"src/components/maxpert/Maxpert.jsx"
+					],
+					[
+						"review.",
+						"src/components/review/Review.jsx"
+					],
+					[
+						"navigti",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"navi",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"review.jsx",
+						"src/components/review/Review.jsx"
+					],
+					[
+						"reviefee",
+						"src/components/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"separa",
+						"src/components/separator/Separator.jsx"
+					],
+					[
+						"src/in",
+						"src/index.js"
+					],
+					[
+						"index.jsx",
+						"node_modules/test-fw/index.jsx"
+					],
+					[
+						".editor",
 						".editorconfig"
 					],
 					[
-						"editorconfig",
-						".editorconfig"
+						"header.jsx",
+						"src/components/header/Header.jsx"
 					],
 					[
-						"makef",
-						"Makefile"
+						"developj",
+						"develop.jsx"
 					],
 					[
-						"makefile",
-						"Makefile"
+						"webpackconfig",
+						"webpack/webpack.config.base.js"
 					],
 					[
-						"eslint",
-						".eslintrc"
+						"navivgation.scss",
+						"src/components/navigation/Navigation.scss"
 					],
 					[
-						"production-",
-						"config/ezpublish/production-7tv.yml"
+						"api.jsx",
+						"src/components/navigation/api/NavigationApi.jsx"
 					],
 					[
-						"preprod",
-						"config/ezpublish/preprod-7tv.yml"
-					],
-					[
-						"script.js",
-						"node_modules/jquery/src/ajax/script.js"
-					],
-					[
-						"app.js",
-						"frontend/ezone/js/app.js"
-					],
-					[
-						"desktop",
-						"frontend/ezone/js/desktop.js"
-					],
-					[
-						"m.script",
-						"frontend/ezone/js/m.script.js"
-					],
-					[
-						"mobile.js",
-						"frontend/ezone/js/mobile.js"
-					],
-					[
-						"desk",
-						"frontend/ezone/js/desktop.js"
-					],
-					[
-						"pweb",
-						"htdocs/extension/psdmultichanneldata/webpack.config.js"
-					],
-					[
-						"prod.yml",
-						"config/ezpublish/production.yml"
-					],
-					[
-						"psd/design.ini.append",
-						"htdocs/extension/psd/settings/design.ini.append.php"
-					],
-					[
-						"design.ini",
-						"htdocs/extension/7tv/settings/design.ini.append.php"
-					],
-					[
-						"page_head.tpl",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"page_head.",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"base.jsx",
-						"frontend/ezone/js/epg/components/full/base.jsx"
-					],
-					[
-						"eslin",
-						".eslintrc"
-					],
-					[
-						"psdtimeoutmodal",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"modalcom",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"modalcomponent",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"psdtimeout",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						".jscs",
-						".jscsrc"
+						"karma",
+						"karma.config.js"
 					],
 					[
 						".eslint",
 						".eslintrc"
 					],
 					[
-						"esformatter",
-						"esformatter.json"
-					],
-					[
-						"tvprogramm/loading",
-						"frontend/ezone/js/modules/epg/components/tvProgramm/loading.jsx"
-					],
-					[
-						"full/header",
-						"frontend/ezone/js/modules/epg/components/full/header.jsx"
-					],
-					[
-						"full/header.",
-						"frontend/ezone/js/modules/epg/components/full/header.jsx"
-					],
-					[
-						"",
-						"Capfile"
-					],
-					[
-						"lint",
-						"vendor/fabpot/php-cs-fixer/Symfony/CS/LintManager.php"
-					],
-					[
-						"senderepg_fu",
-						"frontend/ezone/js/modules/epg/SenderEPG_full.jsx"
-					],
-					[
-						"psdtimeutmo",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
-					],
-					[
-						"timeoutmodalcom",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"install",
-						"htdocs/doc/INSTALL"
-					],
-					[
-						"valign",
-						"vendor/fabpot/php-cs-fixer/Symfony/CS/Fixer/Contrib/AlignEqualsFixer.php"
-					],
-					[
-						"lodash",
-						"frontend/ezone/js/customized/lodash-custom.js"
-					],
-					[
-						"webpac",
-						"webpack-ezone.config.js"
-					],
-					[
-						"item",
-						"htdocs/kernel/collaboration/item.php"
-					],
-					[
-						"videoplayercon",
-						"frontend/shared/js/modules/videoPlayerController.js"
-					],
-					[
-						"videoplayer",
-						"frontend/ezone/js/modules/VideoPlayerDelegate.js"
-					],
-					[
-						"page_head",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"script",
-						"node_modules/jquery/src/ajax/script.js"
-					],
-					[
-						"browserupdate",
-						"frontend/ezone/js/libs/browserUpdate.js"
-					],
-					[
-						".eslintr",
-						".eslintrc"
-					],
-					[
-						"make",
-						"Makefile"
-					],
-					[
-						"modalover",
-						"frontend/ezone/js/modules/ModalOverlay.jsx"
-					],
-					[
-						"makf",
-						"Makefile"
-					],
-					[
 						"eslintr",
 						".eslintrc"
 					],
 					[
-						"psdeztime",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
+						"inde.",
+						"index.jsx"
 					],
 					[
-						"time",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
+						"eslintrc",
+						".eslintrc"
 					],
 					[
-						"sat1gold.css",
-						"statics/common-static/css/sat1gold.css"
+						"index.js",
+						"index.jsx"
 					],
 					[
-						"multiteaser",
-						"frontend/7tv/sass/components/_multiteaser.scss"
+						".eslintrc",
+						".eslintrc"
 					],
 					[
-						"design.ini.append",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"test",
+						"src/TestCases.js"
 					],
 					[
-						"app",
-						"frontend/7tv/js/app.js"
+						"sixx",
+						"coverage/Chrome 47.0.2526 (Mac OS X 10.11.2)/index.html"
 					],
 					[
-						"awebpack",
-						"node_modules/react-modal/webpack.config.js"
+						"karma.",
+						"karma.config.js"
 					],
 					[
-						"multiteaser.scss",
-						"frontend/7tv/sass/components/_multiteaser.scss"
+						"bundl",
+						"dist/bundle.js"
 					],
 					[
-						"psdpageheadcontr",
-						"htdocs/extension/psdframework/classes/templatecontrollers/psdpageheadcontroller.php"
+						"modalwrapper",
+						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
 					],
 					[
-						"article.",
-						"fixtures/ezone/test-content/article.yaml"
+						"timeoutmodal.jsx",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"jquery-migrate",
-						"node_modules/jquery-migrate/dist/jquery-migrate.js"
+						"modal.",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psd.plug",
-						"frontend/ezone/js/psd/jquery.psd.plugins.js"
+						"modal",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psd/design",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"timeoutmodal",
+						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
 					],
 					[
-						"page",
-						"htdocs/design/admin2/templates/page_toppath.tpl"
+						"modaljsx",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psddesign.ini.",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"topclips",
+						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
 					],
 					[
-						"design.append",
-						"htdocs/extension/7tv/settings/design.ini.append.php"
+						"lazyload",
+						"frontend/ezone/js/modules/psdEzLazyLoadingFactory.js"
 					],
 					[
-						"sticky",
-						"frontend/ezone/js/modules/psdEzStickyHeader.js"
+						"timeoutmo",
+						"frontend/ezone/js/modules/timeoutModal/ModalContent.jsx"
 					],
 					[
-						"lodas",
-						"frontend/ezone/js/customized/lodash-custom.js"
+						"page_head",
+						"htdocs/extension/7tv/design/7tvdesign/templates/page_head.tpl"
 					],
 					[
-						"mobile",
-						"frontend/ezone/js/mobile.js"
+						"depene",
+						"frontend/7tv/js/dependency.js"
 					],
 					[
-						"app.",
-						"frontend/ezone/js/app.js"
+						"videpl",
+						"frontend/7tv/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"extension/psd/settings/",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"videplayerde",
+						"frontend/7tv/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"design",
-						"htdocs/settings/design.ini"
+						"videplayer",
+						"frontend/ezone/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"pagehead",
-						"htdocs/design/standard/templates/page_head.tpl"
+						"psdreact",
+						"frontend/ezone/js/modules/psdReactComponents.jsx"
 					],
 					[
-						"we",
-						"webpack-ezone.config.js"
+						"sat1gold",
+						"statics/common-static/sass/brandmaster/share/_sat1gold.scss"
 					],
 					[
-						"psdhelper",
-						"frontend/ezone/js/modules/psdHelpers.js"
+						"sat1gold.scss",
+						"statics/common-static/sass/sat1gold.scss"
 					],
 					[
-						"request.js",
-						"frontend/ezone/js/modules/epg/util/request.js"
+						"psdngteaser.ini",
+						"htdocs/extension/psdngteaser/settings/psdngteaser.ini"
 					],
 					[
-						"containerc",
-						"frontend/ezone/js/modules/ContainerCleanup.jsx"
+						"teaserpreview.tpl",
+						"htdocs/extension/psd/design/psddesign/templates/psdngteaser/teaserpreview.tpl"
 					],
 					[
-						"article.y",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"article.yam",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"article.yaml",
-						"fixtures/7tv/test-content/test-format/article.yaml"
-					],
-					[
-						"vagra",
-						"vagrant/Vagrantfile"
-					],
-					[
-						"article.ym",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"psdhe",
-						"frontend/ezone/js/modules/psdHelpers.js"
-					],
-					[
-						"article",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"fixtures/",
-						"fixtures/7tv/testcontent.yaml"
-					],
-					[
-						"test-",
-						"htdocs/extension/psd/design/psddesign/javascript/ezone-testcontent-overlay.js"
-					],
-					[
-						"_main.scss",
-						"statics/common-static/sass/brandmaster/site/_main.scss"
-					],
-					[
-						"_main.",
-						"statics/common-static/sass/brandmaster/mobile/_main.scss"
+						"teaserprev",
+						"htdocs/extension/psdngteaser/modules/ngteaser/teaserpreview.php"
 					]
 				],
 				"width": 0.0
@@ -1910,10 +2157,10 @@
 				"width": 910.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 311.0,
+			"side_bar_width": 305.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1929,8 +2176,244 @@
 				"selected_items":
 				[
 					[
+						"build",
+						"buildImageUrl"
+					],
+					[
+						"backg",
+						"background-color"
+					],
+					[
+						"get",
+						"getBackgroundImageStyles"
+					],
+					[
+						"render",
+						"renderReviewPreview"
+					],
+					[
+						"player",
+						"playerIsOpenMobile"
+					],
+					[
+						"pl",
+						"playerIsOpenDesktop"
+					],
+					[
+						"playeri",
+						"playerIsOpenDesktop"
+					],
+					[
+						"play",
+						"playerIsOpenMobile"
+					],
+					[
+						"Pro",
+						"propTypes"
+					],
+					[
+						"highlighte",
+						"highlightedReviews"
+					],
+					[
+						"backgr",
+						"backgroundImage"
+					],
+					[
+						"bak",
+						"backgroundImage"
+					],
+					[
+						"maxp",
+						"MAXPERT_HEIGHT"
+					],
+					[
+						"MAXP",
+						"MAXPERT_WIDTH"
+					],
+					[
+						"asset",
+						"ASSET_HEIGHT"
+					],
+					[
+						"ASS",
+						"ASSET_WIDTH"
+					],
+					[
+						"prop",
+						"propTypes"
+					],
+					[
+						"fet",
+						"fetchMaxpert"
+					],
+					[
+						"highligh",
+						"highlightedReviews"
+					],
+					[
+						"subject",
+						"subjectiveCollection"
+					],
+					[
+						"st",
+						"stubs.js"
+					],
+					[
+						"Max",
+						"MaxpertInfoHeader"
+					],
+					[
+						"max",
+						"maxpertId"
+					],
+					[
+						"right",
+						"rightGroup"
+					],
+					[
+						"left",
+						"leftNavigation"
+					],
+					[
+						"login",
+						"login_status"
+					],
+					[
+						"log",
+						"login_status"
+					],
+					[
+						"navigatio",
+						"navigationItems"
+					],
+					[
+						"navi",
+						"navigationItems"
+					],
+					[
+						"a",
+						"api/"
+					],
+					[
+						"nav",
+						"navigationItems"
+					],
+					[
+						"Naviga",
+						"NavigationElement"
+					],
+					[
+						"Navigt",
+						"NavigationElement"
+					],
+					[
+						"Navi",
+						"NavigationElement"
+					],
+					[
+						"Nav",
+						"NavigationGroup.jsx"
+					],
+					[
+						"Navig",
+						"NavigationGroup"
+					],
+					[
+						"pro",
+						"props"
+					],
+					[
+						"Subjective",
+						"SubjectiveCollection"
+					],
+					[
+						"user",
+						"userNavigations"
+					],
+					[
+						"chunk",
+						"chunkArray"
+					],
+					[
+						"webpack",
+						"webpackConfig"
+					],
+					[
+						"N",
+						"Navigation.jsx"
+					],
+					[
+						"Prop",
+						"PropTypes"
+					],
+					[
+						"ada",
+						"adaptive.min.js"
+					],
+					[
+						"variant",
+						"variantValid"
+					],
+					[
+						"var",
+						"variantName"
+					],
+					[
+						"Test",
+						"TestCases"
+					],
+					[
+						"Ad",
+						"AdConfigAdapter"
+					],
+					[
+						"to",
+						"toEqual"
+					],
+					[
+						"cookie",
+						"cookieName"
+					],
+					[
+						"expire",
+						"expiredVariant"
+					],
+					[
+						"coio",
+						"cookieName"
+					],
+					[
+						"cooki",
+						"cookieName"
+					],
+					[
+						"assigned",
+						"assignedVariant"
+					],
+					[
+						"Sendun",
+						"SendungVerpasstTrigger"
+					],
+					[
+						"Hea",
+						"HeaderTrigger.jsx"
+					],
+					[
+						"Header",
+						"HeaderTrigger"
+					],
+					[
+						"E",
+						"EPG_Error"
+					],
+					[
 						"Top",
-						"ToplistTeaserComponent.jsx"
+						"ToplistApi.jsx"
+					],
+					[
+						"MoD",
+						"ModalButtons.jsx"
 					],
 					[
 						"Moda",
@@ -1967,10 +2450,6 @@
 					[
 						"e",
 						"eslint"
-					],
-					[
-						"webpack",
-						"webpack-ezone"
 					],
 					[
 						"date",
@@ -2173,10 +2652,6 @@
 						"dist/"
 					],
 					[
-						"get",
-						"getBoard"
-					],
-					[
 						"create",
 						"createBoard"
 					],
@@ -2211,60 +2686,24 @@
 					[
 						"ang",
 						"angular.js"
-					],
-					[
-						"contr",
-						"controller"
-					],
-					[
-						"bower_",
-						"bower_components"
-					],
-					[
-						"calcula",
-						"calculateSecurity"
-					],
-					[
-						"cal",
-						"calculateSecurity"
-					],
-					[
-						"ex",
-						"expect"
-					],
-					[
-						"flex-",
-						"flex-direction"
-					],
-					[
-						"flex",
-						"flex-direction"
-					],
-					[
-						"c",
-						"corporation"
-					],
-					[
-						"fore",
-						"foreach	<?php foreach (…) … <?php endforeach ?>"
-					],
-					[
-						"forea",
-						"foreach	foreach"
-					],
-					[
-						"if",
-						"ifelse	ifelse"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/Users/dbus/Projekte/wasch-server/app.js",
+					"file": "web-components/src/components/subjective-collection/SubjectiveCollection.jsx",
 					"settings":
 					{
-						"buffer_size": 625,
+						"buffer_size": 5271,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "web-components/src/components/asset-cover/AssetCover.jsx",
+					"settings":
+					{
+						"buffer_size": 920,
 						"line_ending": "Unix"
 					}
 				}
@@ -2277,32 +2716,200 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "linter",
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"linter",
-						"SublimeLinter: Toggle Linter"
+						"lint this",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint ti",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"format",
+						"JSCS Formatter: Format this file"
 					],
 					[
 						"json",
 						"Set Syntax: JSON"
 					],
 					[
-						"lint v",
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"sort",
+						"Sort Lines"
+					],
+					[
+						"lint this ",
 						"SublimeLinter: Lint This View"
 					],
 					[
-						"format",
-						"Format Code"
-					],
-					[
-						"commit",
-						"Set Syntax: Git: Commit-Message"
+						"reinde",
+						"JSON Reindent: reindent file or selection"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"babel",
+						"Set Syntax: JavaScript (Babel)"
+					],
+					[
+						"Snippet: propt",
+						"Snippet: React.PropTypes"
+					],
+					[
+						"autofile",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"spaces",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"Snippet: ",
+						"Snippet: MaxdomeComponent"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"conver",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"scss",
+						"Set Syntax: SCSS"
+					],
+					[
+						"convert to",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"lint v",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"forma",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"lint thi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"fmt",
+						"JSFMT: Settings - User"
+					],
+					[
+						"jscs",
+						"JSCS Formatter: Format this file"
+					],
+					[
+						"lint view",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint t",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"foramt",
+						"JSFMT: Format the current file"
+					],
+					[
+						"gutter",
+						"SublimeLinter: Choose Gutter Theme"
+					],
+					[
+						"editorc",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"lint vie",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"Fro",
+						"Format Code"
+					],
+					[
+						"lint ",
+						"SublimeLinter: Toggle Linter"
+					],
+					[
+						"lint hi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"convet",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"create sep",
+						"Jasmine: Create spec file"
+					],
+					[
+						"switch",
+						"Jasmine: Switch between code and spec"
+					],
+					[
+						"jasmine",
+						"Jasmine (legacy): Switch between code and spec"
+					],
+					[
+						"spec file",
+						"Jasmine: Create spec file"
+					],
+					[
+						"vlai",
+						"Vertical Align"
+					],
+					[
+						"valign",
+						"Vertical Align"
+					],
+					[
+						"c",
+						"Set Syntax: C"
+					],
+					[
+						"linte v",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"lint vi",
+						"SublimeLinter: Lint This View"
+					],
+					[
+						"swap",
+						"BracketHighlighter: Swap Quotes"
+					],
+					[
+						"commit",
+						"Set Syntax: Git: Commit-Message"
 					],
 					[
 						"php",
@@ -2325,44 +2932,12 @@
 						"Package Control: Upgrade/Overwrite All Packages"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"scss",
-						"Set Syntax: SCSS"
-					],
-					[
 						"sass",
 						"Set Syntax: Sass"
 					],
 					[
 						"css3",
 						"Set Syntax: CSS3"
-					],
-					[
-						"lint t",
-						"SublimeLinter: Lint This View"
-					],
-					[
-						"lint",
-						"SublimeLinter: Toggle Linter"
-					],
-					[
-						"lint vi",
-						"SublimeLinter: Lint This View"
-					],
-					[
-						"reind",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"html",
-						"HTMLBeautify"
-					],
-					[
-						"babel",
-						"Set Syntax: JavaScript (Babel)"
 					],
 					[
 						"instlal",
@@ -2375,10 +2950,6 @@
 					[
 						"remvoe",
 						"Emmet: Remove Tag"
-					],
-					[
-						"lint view",
-						"SublimeLinter: Lint This View"
 					],
 					[
 						"jsb",
@@ -2397,10 +2968,6 @@
 						"JSFMT: Toggle autoformat"
 					],
 					[
-						"lint ",
-						"SublimeLinter: Lint This View"
-					],
-					[
 						"jsfm",
 						"JSFMT: Format the current file"
 					],
@@ -2411,10 +2978,6 @@
 					[
 						"Snippet: class",
 						"Snippet: babel-class"
-					],
-					[
-						"autofile",
-						"AutoFileName: Quick Settings"
 					],
 					[
 						"auto",
@@ -2457,16 +3020,8 @@
 						"Snippet: React: import cx from 'classnames';"
 					],
 					[
-						"valign",
-						"Vertical Align"
-					],
-					[
 						"copy",
 						"File: Copy Path"
-					],
-					[
-						"convert",
-						"Indentation: Convert to Tabs"
 					],
 					[
 						"package",
@@ -2497,10 +3052,6 @@
 						"SublimeLinter: Show All Errors"
 					],
 					[
-						"gutter",
-						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
 						"mark st",
 						"SublimeLinter: Choose Mark Style"
 					],
@@ -2511,10 +3062,6 @@
 					[
 						"gutter them",
 						"SublimeLinter: Choose Gutter Theme"
-					],
-					[
-						"jscs",
-						"Set Syntax: JavaScript (Rails)"
 					],
 					[
 						"disable linter",
@@ -2531,10 +3078,6 @@
 					[
 						"isntall",
 						"Package Control: Install Package"
-					],
-					[
-						"sort",
-						"Sort Lines"
 					],
 					[
 						"jsc",
@@ -2561,8 +3104,8 @@
 						"Require"
 					],
 					[
-						"lint this",
-						"SublimeLinter: Lint This View"
+						"linter",
+						"Preferences: SublimeLinter Settings – User"
 					],
 					[
 						"autof",
@@ -2687,110 +3230,6 @@
 					[
 						"prefe",
 						"Preferences: Settings - User"
-					],
-					[
-						"jshint",
-						"JSHint: Set Linting Preferences"
-					],
-					[
-						"jshin",
-						"JSHint"
-					],
-					[
-						"b",
-						"Babel Transform"
-					],
-					[
-						"javs",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"jsx",
-						"Set Syntax: JSX"
-					],
-					[
-						"reinde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"jax",
-						"Set Syntax: JavaScript (JSX)"
-					],
-					[
-						"jslint",
-						"JSHint: Set Linting Preferences"
-					],
-					[
-						"Package Control: remove",
-						"Package Control: Remove Channel"
-					],
-					[
-						"hint",
-						"JSHint: Set Plugin Options"
-					],
-					[
-						"jsho",
-						"JSHint: Set `node` Path"
-					],
-					[
-						"jsl",
-						"JSHint: Set Plugin Options"
-					],
-					[
-						"user ",
-						"Preferences: Settings - User"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"toggle",
-						"Jasmine: Toggle quotes"
-					],
-					[
-						"toggle qu",
-						"Jasmine: Toggle quotes"
-					],
-					[
-						"jasmine",
-						"Jasmine (legacy): Switch between code and spec"
-					],
-					[
-						"jasm",
-						"Jasmine: Create spec file"
-					],
-					[
-						"jasmin",
-						"Jasmine: Create spec file"
-					],
-					[
-						"JSON",
-						"Pretty JSON: Validate"
-					],
-					[
-						"convr",
-						"Convert Case: Upper Case"
-					],
-					[
-						"jsf",
-						"Javascript Beautify"
-					],
-					[
-						"change ",
-						"ChangeQuotes"
-					],
-					[
-						"javas",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"",
-						"Add some Lorem Gibson"
-					],
-					[
-						"fold all",
-						"Code Folding: Unfold All"
 					]
 				],
 				"width": 593.0
@@ -2819,148 +3258,194 @@
 			},
 			"expanded_folders":
 			[
-				"/Users/dbus/Projekte/wasch-server"
+				"/Users/dbus/Projekte/Maxdome/web-components",
+				"/Users/dbus/Projekte/Maxdome/web-components/src",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/asset-cover",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert/test",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-face",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-info-header",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-overview-list",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/__tests__",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/fixtures",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-mini",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/three-er",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/search",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-player",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/util"
 			],
 			"file_history":
 			[
-				"/Users/dbus/Projekte/wasch-server/.git/rebase-merge/git-rebase-todo",
-				"/Users/dbus/Projekte/wasch-server/app.js",
-				"/Users/dbus/Projekte/wasch-server/package.json",
-				"/Users/dbus/Projekte/wasch-server/.esformatter",
-				"/Users/dbus/Projekte/wasch-server/.eslintrc",
-				"/Users/dbus/Projekte/wasch-server/index.js",
-				"/Users/dbus/Projekte/wasch-server/.git/COMMIT_EDITMSG",
-				"/Users/dbus/Projekte/wasch-server/.gitignore",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.eslintrc",
-				"/Users/dbus/Projekte/wasch-server/node_modules/babel-core/node_modules/json5/test/parse-cases/objects/duplicate-keys.json",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.esformatter",
-				"/Users/dbus/.esformatter",
-				"/Users/dbus/.esform",
-				"/Users/dbus/Projekte/wasch/index.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.git/rebase-merge/git-rebase-todo",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/settings/toplists.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdframework/modules/psdframework/topclips.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/node/view/singleteaser/medium.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistTeaserComponent.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistApi.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdReactComponents.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/FormatEPG_mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util/request.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_TVProgrammOnly.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_full.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/full.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/mini.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/standalone.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/header.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/header.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/error.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/footer.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm/loading.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/statics/common-static/Makefile",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/ezone.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util/date.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/teasers.html",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/Modal.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ModalContent.jsx",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/jsfmt.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/psd/clipsplitter/src/Exception/PsdClipSplitterException.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/design/7tvdesign/templates/node/view/singleteaser/short.tpl",
-				"/Users/dbus/Desktop/foo.jsx",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/EsFormatter.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/jsfmt/jsfmt.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Default.sublime-commands",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/util/util.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-face/MaxpertFace.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/Separator.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed/ReviewFeed.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert/Maxpert.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/asset-cover/AssetCover.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/SubjectiveCollection.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/develop.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationElement.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Api.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/three-er/ThreeEr.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack.config.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-player/VideoPlayer.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/ReviewFeedItem.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-mini/ReviewMini.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-info-header/MaxpertInfoHeader.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-overview-list/MaxpertOverviewList.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-info-header/MaxpertInfoHeader.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/fixtures/sampleData.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/Header.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/Navigation.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/index.html",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/search/Search.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Carousel.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/resume-bar/ResumeBar.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/asset-reviews/asset-review-feed-item/AssetReviewFeedItem.jsx",
+				"/Users/dbus/pack",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-player/VideoPlayer.styles.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/ReviewFeedItem.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components.sublime-project",
+				"/Users/dbus/Projekte/Maxdome/web-components/.babelrc",
+				"/Users/dbus/Projekte/Maxdome/web-components/dist/web-components.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Decorators.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/LeftControlButton.jsx",
+				"/private/tmp/index.html",
+				"/private/tmp/web-components.js",
+				"/private/tmp/web",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/package.json",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/src/Mxd/CommonBundle/Resources/js/webapp.js",
+				"/Users/dbus/Projekte/Maxdome/portal2-mxd/webpack.config.js",
+				"/private/tmp/webapp.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/Header.scss",
 				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/dbus/.jsfmtrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/tests/testcases/frontend/format.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.editorconfig",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/video-modal/VideoModal.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert/Maxpert.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/styles.context.js",
+				"/Users/dbus/.bitbar/jenkins.sh",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/Separator.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/SubjectiveCollection.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/search/Search.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/three-er/ThreeEr.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-mini/ReviewMini.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed/ReviewFeed.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/RecentlyWatched.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-overview-list/MaxpertOverviewList.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/maxpert-face/MaxpertFace.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/Find Results",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/carousel/Carousel.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/util/__tests__/util.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/develop",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/stubs/stubs.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/node_modules/lodash/util.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-feed-item/FullTextReviewToggle.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-teaser/ReviewTeaser.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/reviews/review-teaser/ReviewTeaser.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/__tests__/Navigation.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/RecentlyWatched.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/__tests__/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review-feed/ReviewFeed.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/Review.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/Review.scss",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/test/Navigation.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/README.md",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Api.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/test/Separator.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.tests.eslintrc",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/test.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationGroup.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationSubList.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/index.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.eslintrc",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/React.PropTypes.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/full-width-feed-review/FullWidthFeedReview.jsx",
 				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/babel-class.sublime-snippet",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/ToplistTeasers.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/timeoutModal/TimeoutModal.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/classes/templatecontrollers/psdTimeOutModalController.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/desktop.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTabs.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/webpack-ezone.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/jquery.ui.custom.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/psd/psd.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzContainer.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/Makefile",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzFullEPG.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/Map Local.xml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/var/common/cache/public/assets/vendor.bundle.min.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEz.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdflow/design/standard/javascript/jq.scheduledialog.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/webpack-7tv.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/production-7tv.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/preprod-7tv.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/node_modules/jquery/src/ajax/script.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/app.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/mobile.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/m.script.js",
-				"/Users/dbus/Downloads/vendor.bundle.min.js.map",
-				"/Users/dbus/Desktop/foo.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psdmultichanneldata/webpack.config.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/design/psddesign/templates/page_head.tpl",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/psd/settings/design.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/preprod.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/config/ezpublish/production.yml",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/extension/7tv/settings/design.ini.append.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/epg/components/full/base.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes/footer.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTimeoutModal.jsx",
-				"/Users/dbus/.jscsrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzRecipe.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzNWT.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/.jscsrc",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/browserupdate.js",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Babel.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/esformatter.json",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/ModalOverlay.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/Capfile",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/Git.sublime-settings",
-				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/fabpot/php-cs-fixer/Symfony/CS/LintManager.php",
-				"/Users/dbus/Desktop/untitled.jsx",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/doc/INSTALL",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/vendor/fabpot/php-cs-fixer/Symfony/CS/Fixer/Contrib/AlignEqualsFixer.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/customized/lodash-custom.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/shared/js/modules/videoPlayerController.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/VideoPlayerDelegate.js",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/htdocs/kernel/collaboration/item.php",
-				"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/libs/browserUpdate.js",
-				"/Users/dbus/.eslintrc",
-				"/private/tmp/test.js",
-				"/Users/dbus/Downloads/calendar (4).ics"
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/separator/test/Separator.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/recently-watched/test/RecentlyWatched.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/index.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/node_modules/test-fw/index.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/.editorconfig",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/MaxdomeComponent.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/maxpert/Maxpert.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/maxpert/test/Maxpert.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.base.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.dev.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/api/Request.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/api/NavigationApi.jsx",
+				"/Users/dbus/Projekte/Maxdome/eslint-config-maxdome/react.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationItem.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/NavigationList.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.prod.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/app.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/subjective-collection/test/SubjectiveCollection.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/review/test/Review.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/header/test/Header.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/util/chunkArray.jsx",
+				"/Users/dbus/Dropbox/AppData/Sublime Text 3/Packages/User/promise.sublime-snippet",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/navigation/mock/navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/test-fw/include-component-style.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/webpack/webpack.config.test.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/.eslintrc",
+				"/Users/dbus/Projekte/Maxdome/web-components/karma.config.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/Header.spec.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/Calculator.jsx",
+				"/Users/dbus/Projekte/Maxdome/web-components/test/Header.spec.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/src/components/dasdsa.as",
+				"/Users/dbus/Projekte/Maxdome/component-common-styles/package.json",
+				"/Users/dbus/Projekte/Maxdome/web-components/tests.webpack.js",
+				"/Users/dbus/Projekte/Maxdome/web-components/.gitignore",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/package.json",
+				"/Users/dbus/Projekte/Maxdome/component-header/package.json",
+				"/Users/dbus/Projekte/Maxdome/component-header/submodules/component-navigation/lib/scss/component-navigation.scss",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/Navigation.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/index.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/NavigationSubList.jsx",
+				"/Users/dbus/Projekte/Maxdome/component-navigation/lib/js/NavigationList.jsx"
 			],
 			"find":
 			{
-				"height": 30.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 93.0,
+				"height": 102.0,
 				"where_history":
 				[
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.scss",
+					"<project>,*.jsx",
+					"<project>,*.js",
+					"<project>,*.*",
+					"<project>,*.js",
+					"<project>,",
+					"<project>,*.scss",
+					"<project>,*.*",
+					"<project>,*.php",
+					"<project>,*.scss",
+					"<project>,*.*",
+					"<project>,*.js",
+					"<project>,*.tpl",
+					"<project>,*.jsx",
+					"<current file>",
+					"*.js",
+					"<current file>.tpl",
 					"<current file>",
 					"/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/FormatEPG_mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_TVProgrammOnly.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_full.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/SenderEPG_mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/full.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/mini.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/broadcast/standalone.jsx,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/full,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/nextEpisodes,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/sendungVerpasst,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/components/tvProgramm,/Users/dbus/Projekte/Pro7Sat1/ezone/frontend/ezone/js/modules/epg/util",
 					"<current file>",
@@ -3046,141 +3531,150 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"'",
-					"request",
-					"deploy",
-					"datestr",
-					"var ",
-					"20px",
-					"#FFFFFF",
-					"#ffffff",
-					"#FFFFFF",
-					"var",
-					"    <d",
-					"^\\n",
-					"\n\n\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n\n",
-					"\n\n\n\n\n\n",
-					"\n\n\n\n\n",
-					"\n\n\n\n",
-					"\n\n\n",
-					"\n\n",
-					"\\n",
-					"\n",
-					"teaser_140x79",
-					"\"http://i3.p7.com/pis/ezone/0419qgELB38wdFJg-g8CUJGraflJHkyGeBC5xO5JC3kVKXcAaPkB2nqAQuUwznPjSJdtuoJFJicSZSGre2coBvpKb4RrJXvj7IXwK6DM4j1MDLDf6SiXrpbVsVZYjkFV-6YFW5ArS-csGoHrBapiFO8EE4Q0i-rSidrDBE7lAVynSlVEIjgmovesmPh-TeIHYuMP_BVkVAUiM-yd2fQ0B7gAZst0jj6C0sl8MbMw0L0qWTPKGKKGRxuEXxGjdtBPusOqtqV9erywzmzU_tY7b7x684T_1JdkQM9r0I6cq43e2l-tcDJvxqcyXR504nGy_7HpW7hf0Mz-CbrvO8tNxBS9R5WOrR5JWOsrqncT5LIUTyrc6w/profile:ezone-teaser229x122",
-					"http://i3.p7.com/pis/ezone/0419qgELB38wdFJg-g8CUJGraflJHkyGeBC5xO5JC3kVKXcAaPkB2nqAQuUwznPjSJdtuoJFJicSZSGre2coBvpKb4RrJXvj7IXwK6DM4j1MDLDf6SiXrpbVsVZYjkFV-6YFW5ArS-csGoHrBapiFO8EE4Q0i-rSidrDBE7lAVynSlVEIjgmovesmPh-TeIHYuMP_BVkVAUiM-yd2fQ0B7gAZst0jj6C0sl8MbMw0L0qWTPKGKKGRxuEXxGjdtBPusOqtqV9erywzmzU_tY7b7x684T_1JdkQM9r0I6cq43e2l-tcDJvxqcyXR504nGy_7HpW7hf0Mz-CbrvO8tNxBS9R5WOrR5JWOsrqncT5LIUTyrc6w/profile:ezone-teaser229x122",
-					"http://dev.imageservice.sim-technik.de/pis/ezone/c40eqgELB38wdEHMCR__a2wEMqvePKre7Bx_1rkRJDL-O05QQUZHQjrqlMp1FTHo1wJZoSTdW3C3t8_2HXY20LiAbsCxdLOl8VqwU-zlo206Py4r4cGFUs6g2gT-iG8MRbW9JTsFtWZ94Bs40fWEuvObK1ESR1E1zm-DKj6bIOJTpAU2JTuQPFu981-n47whLJT2zg/profile:ezone-teaser140x79",
-					"Users/dbus/Projekte/Pro7Sat1/ezone",
-					"dbus@mbp ~/P/P/ezone",
-					" (psd/PSDWEBAPP-1365-timeout-overlay-toplists)",
-					"\n",
-					"//",
-					"request",
-					"VIDEOPAGE_CSS_CLASSES",
-					"TimeoutModalComponent",
-					"TimeoutModal",
-					"psdTimeOutModalController",
-					"teasers",
-					"ModalContent",
-					"Teasers",
-					"teasers",
-					"Teasers",
-					"teasers",
-					"teaserNodeId",
-					"elapsed",
-					"openmodalafter",
-					"js.length - 2",
-					"js[(js.length - 2)]",
-					"removedempty",
+					"maxpertface",
+					"subjective",
+					"ComponentName",
+					"defaultprops",
+					"openvideo",
+					"bottom:",
+					"$dark-gray",
+					"quote",
+					"buildAssetUrlWithAnchor",
+					"genitiv",
+					"classnames",
+					"hasvideosf",
+					"eslint",
+					"transition",
+					"styles",
+					"Abspielen",
+					"Play",
+					"searchresults",
+					"hot",
+					"hmr",
+					"hot",
+					"strict",
+					"\"use strict\"",
+					"'use strict'",
+					"use strict",
+					"localhost",
+					"b8cdef6e3d0275beff0d6f38004549a242f669bc",
+					"decoratr",
+					"localhost",
+					" { ...this.getSlidesToShow() }",
+					"_component",
+					"Multiple definitions of a property not allowed in strict mode",
+					"videoplayer",
+					".trailer-button-wrapper",
+					"vertical-center",
+					"review",
+					"HEIGHT",
+					"WIDTH",
+					"TrailerPlayer",
+					"modalupdate",
+					"from 'classnames'",
+					"REactModal",
+					"openPlayerMobile",
+					"renderModal",
+					"renderVideoPlayer",
+					"videos",
+					"this.props.vid",
+					"renderVideoPlayer",
+					"default",
+					"screenmode",
+					"_listenForEsc",
+					"this.state",
+					"styles",
+					"renderModal",
+					"onscreen",
+					"trailerplayer",
+					"ref",
+					"Review",
+					"review",
+					"Review",
+					"modal",
+					"ago",
+					"background-image",
+					"style",
+					"reviews",
+					"stubs",
+					"err2",
+					"publicationResponse",
+					"import Api",
+					"highlightedReviews",
+					"maxpertResponse",
+					"props",
+					"hasvideo",
+					"&.open",
+					"top-bar",
+					"test",
+					"testsContext",
+					"href",
+					"@import \"~component-common-styles\";\n\n",
+					"@import \"~component-common-styles\";\n",
+					"global",
+					"@import \"~component-common-styles\";",
+					"cx({",
+					"background-color: #e1faea;",
+					"quote",
+					"background",
+					"review.maxpert[0]",
+					"title",
+					"componentId",
+					"styleBgImage",
+					"bgURL",
+					"reviewerImage",
+					"props.reviewer",
+					"collectionId",
 					"id",
-					"epg__tabs",
-					"	 ",
-					"indent",
-					"scrollToElement",
-					"indent",
-					"tabs",
-					"defaultweekdays",
-					"schedule-absolute-date",
-					"overl",
-					"drm",
-					"infini",
-					"basic",
-					"FrontendJavaScriptList",
-					"script src",
-					"script",
-					"desktop",
-					"desktopPSDWEBAPP-478-search-target-blank",
-					"getoffsetdate",
-					"utils",
-					"./",
-					"(\"",
-					"./",
-					"           ",
-					"          ",
-					"         ",
-					"        ",
-					"require(\"epg/",
-					"./modules/epg/",
-					"\n{",
+					"-title",
+					"star",
+					"replaceUrl",
+					"divStyle",
+					"introd",
+					"fullReview",
+					"buildIm",
+					"state.",
+					"response2",
+					"response",
+					"Response",
+					"response",
+					"reviewer",
+					", ",
+					"@import \"~component-common-styles\";",
+					"review",
 					"\n",
-					"\n{",
-					"{",
-					"utils",
-					"dateUtils",
-					"require",
-					"utils",
-					"dateUtils",
-					",\n",
-					"nextEpisodes",
-					"NextEpisodes",
-					"nextEpisodes",
-					"NextEpisodes",
-					"utils",
-					"dataindex",
-					"handlechapteritemclick",
-					"item",
-					"playlist",
-					"item",
-					"ModalOverlay",
-					"modalOverlay",
-					"/Users/dbus/Projekte/Pro7Sat1/ezone",
-					"frontend/ezone/",
-					".\n",
-					"428",
-					"slick-slide",
-					"version_parameter",
-					"version_",
-					"parameter",
-					"copyright",
-					"console.log",
-					"window.console",
-					"console.log",
-					"console.err",
-					"gallery",
-					"React",
-					"Modal",
-					"findTabbableDescendants",
-					"Adapted from jQuery UI core",
-					"focusable",
-					"focusable(element, isTabIndexNotNaN)",
-					"function focusable(element, isTabIndexNotNaN) {",
-					"desktop",
-					"desktop css",
-					"desktop_css",
-					"timoeut",
-					"React.re",
-					"require(\"React\"",
-					"PSD = ",
-					"m.script.js"
+					"\"",
+					"stubs",
+					"synopsis_short",
+					";\n",
+					"group-item",
+					"FullWidthFeedReview",
+					"content",
+					"reviewCallout",
+					"callout",
+					"fetchMaxpertReviewFor",
+					"callout",
+					"src",
+					"function ()",
+					"zum store",
+					"mam_asset_id[0].",
+					"Headlines from"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
+					"",
+					"@import \"node_modules/component-common-styles\";",
+					"@import (reference) \"~component-common-styles\";",
+					"@import \"~component-common-styles\";\n@import (common) \"~component-common-styles\";",
+					"DateUtils",
+					"import DateUtils from \"modules/epg/util/date\";",
+					"import FullBroadcast from \"modules/epg/components/broadcast/full\";",
+					"import $1 from $2",
+					"import $1 from $2;",
 					"let ",
 					"",
 					"require(\"modules/epg/",
@@ -3201,37 +3695,27 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"folder_exclude_patterns":
-					[
-						"node_modules"
-					],
-					"path": "/Users/dbus/Projekte/wasch-server"
-				}
-			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/dbus/Projekte/wasch-server/app.js",
+							"file": "web-components/src/components/subjective-collection/SubjectiveCollection.jsx",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 625,
+								"buffer_size": 5271,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										349,
-										349
+										4776,
+										4776
 									]
 								],
 								"settings":
@@ -3249,56 +3733,153 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content"
 									],
-									"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 2424.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "web-components/src/components/asset-cover/AssetCover.jsx",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 920,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										891,
+										891
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -3358,12 +3939,16 @@
 			{
 				"height": 161.0
 			},
+			"output.unsaved_changes":
+			{
+				"height": 142.0
+			},
 			"pinned_build_system": "",
-			"position": "0 377 65 1440 799 0 0 1440 877 ",
-			"project": "",
+			"position": "0 0 75 1440 802 0 0 1440 877 ",
+			"project": "web-components.sublime-project",
 			"replace":
 			{
-				"height": 56.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3373,516 +3958,516 @@
 				"selected_items":
 				[
 					[
-						"kson",
-						"node_modules/babel-core/node_modules/json5/test/parse-cases/objects/duplicate-keys.json"
+						"util",
+						"src/util/util.jsx"
 					],
 					[
-						"modalwraper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
+						"assetco",
+						"src/components/asset-cover/AssetCover.jsx"
 					],
 					[
-						"timeoutmodal",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
+						"subject",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
 					],
 					[
-						"topclips",
-						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
+						"maxpert",
+						"src/components/maxpert/Maxpert.jsx"
 					],
 					[
-						"toplipse",
-						"htdocs/extension/7tv/settings/toplists.ini.append.php"
+						"develop",
+						"develop.jsx"
 					],
 					[
-						"medium.tpl",
-						"htdocs/extension/psd/design/psddesign/templates/node/view/singleteaser/medium.tpl"
+						"separat",
+						"src/components/separator/Separator.jsx"
 					],
 					[
-						"toplistapi",
-						"frontend/ezone/js/modules/timeoutModal/ToplistApi.jsx"
+						"assetcov",
+						"src/components/asset-cover/AssetCover.jsx"
 					],
 					[
-						"timeoutmoda",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
+						"api",
+						"src/api/Api.jsx"
 					],
 					[
-						"modalwra",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"psdreact",
-						"frontend/ezone/js/modules/psdReactComponents.jsx"
-					],
-					[
-						"timeout",
-						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
-					],
-					[
-						"eslintrc",
-						".eslintrc"
-					],
-					[
-						"psdreactc",
-						"frontend/ezone/js/modules/psdReactComponents.jsx"
-					],
-					[
-						"timeoutmodal.ss",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"timeoutmodal.scss",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"modal",
-						"frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx"
-					],
-					[
-						"modalwrap",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"modalwrapper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"buttons",
-						"frontend/ezone/js/modules/timeoutModal/ModalButtons.jsx"
-					],
-					[
-						"topclips.php",
-						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
-					],
-					[
-						".jsx",
-						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
-					],
-					[
-						".esformatter",
-						".esformatter"
-					],
-					[
-						"short.tpl",
-						"htdocs/extension/7tv/design/7tvdesign/templates/node/view/singleteaser/short.tpl"
-					],
-					[
-						"modal.",
-						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
-					],
-					[
-						"modalcontent",
-						"frontend/ezone/js/modules/timeoutModal/ModalContent.jsx"
-					],
-					[
-						"modalrapper",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						"modalwar",
-						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
-					],
-					[
-						".esformat",
-						".esformatter"
-					],
-					[
-						"format",
-						"tests/testcases/frontend/format.js"
-					],
-					[
-						".edi",
-						".editorconfig"
-					],
-					[
-						"timeoutmodal.scs",
-						"statics/common-static/sass/brandmaster/site/modules/_timeout_modal.scss"
-					],
-					[
-						"timeout_moda",
-						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
-					],
-					[
-						"psdtimeoutmo",
-						"htdocs/extension/psd/classes/templatecontrollers/psdTimeOutModalController.php"
-					],
-					[
-						"psdeztabs",
-						"frontend/ezone/js/modules/psdEzTabs.js"
+						"subjective",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
 					],
 					[
 						"webpack",
-						"webpack-ezone.config.js"
+						"webpack.config.js"
 					],
 					[
-						"maplocal",
-						"htdocs/var/common/cache/public/Map Local.xml"
+						"threer",
+						"src/components/reviews/three-er/ThreeEr.jsx"
 					],
 					[
-						"fullepg",
-						"frontend/ezone/js/modules/psdEzFullEPG.js"
+						"three",
+						"src/components/reviews/three-er/ThreeEr.jsx"
 					],
 					[
-						"psdezcta",
-						"frontend/ezone/js/modules/psdEzContainer.js"
+						"maxpertface",
+						"src/components/maxpert-face/MaxpertFace.jsx"
 					],
 					[
-						"makefil",
-						"Makefile"
+						"videplay",
+						"src/components/video-player/VideoPlayer.jsx"
 					],
 					[
-						"psdezta",
-						"frontend/ezone/js/modules/psdEzTabs.js"
+						"reviewmin",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
 					],
 					[
-						".editorcn",
+						"reviewfeeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"reviewmini",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"overview",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"maxpertinfoheader",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"sampedata",
+						"src/components/navigation/fixtures/sampleData.js"
+					],
+					[
+						"infoheader",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"header",
+						"src/components/header/Header.jsx"
+					],
+					[
+						"navigat",
+						"src/components/navigation/Navigation.scss"
+					],
+					[
+						"search",
+						"src/components/search/Search.jsx"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"deelop",
+						"develop.jsx"
+					],
+					[
+						"subjecti",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"carousel",
+						"src/components/carousel/Carousel.jsx"
+					],
+					[
+						"resumebar",
+						"src/components/resume-bar/ResumeBar.jsx"
+					],
+					[
+						"package",
+						"package.json"
+					],
+					[
+						"assetreview",
+						"src/components/asset-reviews/asset-review-feed-item/AssetReviewFeedItem.jsx"
+					],
+					[
+						"maxpertinfoheade",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"videopl",
+						"src/components/video-player/VideoPlayer.styles.js"
+					],
+					[
+						"navigation",
+						"src/components/navigation/Navigation.scss"
+					],
+					[
+						"maxpertinfo",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"reviewfee",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"reviewfeediete",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"babelrc",
+						".babelrc"
+					],
+					[
+						"develp",
+						"develop.jsx"
+					],
+					[
+						"webpac",
+						"webpack.config.js"
+					],
+					[
+						"carou",
+						"src/components/carousel/Carousel.jsx"
+					],
+					[
+						"develo",
+						"develop.jsx"
+					],
+					[
+						"babel",
+						".babelrc"
+					],
+					[
+						"we",
+						"webpack.config.js"
+					],
+					[
+						"decorat",
+						"src/components/carousel/Decorators.jsx"
+					],
+					[
+						"index.",
+						"index.html"
+					],
+					[
+						"deve",
+						"develop.jsx"
+					],
+					[
+						"videop",
+						"src/components/video-player/VideoPlayer.jsx"
+					],
+					[
+						"video",
+						"src/components/video-player/VideoPlayer.jsx"
+					],
+					[
+						"babelr",
+						".babelrc"
+					],
+					[
+						"reviewfeed",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"subj",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"maxpertover",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"maxper",
+						"src/components/maxpert/Maxpert.jsx"
+					],
+					[
+						"element",
+						"src/components/navigation/NavigationElement.jsx"
+					],
+					[
+						"navig",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"navigationelement",
+						"src/components/navigation/NavigationElement.jsx"
+					],
+					[
+						"subjectivecol",
+						"src/components/subjective-collection/SubjectiveCollection.jsx"
+					],
+					[
+						"feeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"util.spec",
+						"src/util/__tests__/util.spec.js"
+					],
+					[
+						"reviewitem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"mini.jsx",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"util.jsx",
+						"src/util/util.jsx"
+					],
+					[
+						"itemrevief",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"stubs",
+						"src/stubs/stubs.js"
+					],
+					[
+						"overviewlist",
+						"src/components/maxpert-overview-list/MaxpertOverviewList.jsx"
+					],
+					[
+						"api.",
+						"src/api/Api.jsx"
+					],
+					[
+						"pca",
+						"package.json"
+					],
+					[
+						"item",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"review",
+						"src/components/reviews/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"mini",
+						"src/components/reviews/review-mini/ReviewMini.jsx"
+					],
+					[
+						"separator",
+						"src/components/separator/Separator.jsx"
+					],
+					[
+						"reviewteser",
+						"src/components/reviews/review-teaser/ReviewTeaser.jsx"
+					],
+					[
+						"reviewteaser",
+						"src/components/reviews/review-teaser/ReviewTeaser.jsx"
+					],
+					[
+						"navi.spec.js",
+						"src/components/navigation/__tests__/Navigation.spec.js"
+					],
+					[
+						"recently",
+						"src/components/recently-watched/RecentlyWatched.jsx"
+					],
+					[
+						"reviwfeeditem",
+						"src/components/reviews/review-feed-item/ReviewFeedItem.jsx"
+					],
+					[
+						"deveop",
+						"develop.jsx"
+					],
+					[
+						"maxpertinf",
+						"src/components/maxpert-info-header/MaxpertInfoHeader.jsx"
+					],
+					[
+						"review.scs",
+						"src/components/review/Review.scss"
+					],
+					[
+						"revieffeed",
+						"src/components/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"devel",
+						"develop.jsx"
+					],
+					[
+						"fullwidth",
+						"src/components/full-width-feed-review/FullWidthFeedReview.jsx"
+					],
+					[
+						"maxp",
+						"src/components/maxpert/Maxpert.jsx"
+					],
+					[
+						"review.",
+						"src/components/review/Review.jsx"
+					],
+					[
+						"navigti",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"navi",
+						"src/components/navigation/Navigation.jsx"
+					],
+					[
+						"review.jsx",
+						"src/components/review/Review.jsx"
+					],
+					[
+						"reviefee",
+						"src/components/review-feed/ReviewFeed.jsx"
+					],
+					[
+						"separa",
+						"src/components/separator/Separator.jsx"
+					],
+					[
+						"src/in",
+						"src/index.js"
+					],
+					[
+						"index.jsx",
+						"node_modules/test-fw/index.jsx"
+					],
+					[
+						".editor",
 						".editorconfig"
 					],
 					[
-						"editorconfig",
-						".editorconfig"
+						"header.jsx",
+						"src/components/header/Header.jsx"
 					],
 					[
-						"makef",
-						"Makefile"
+						"developj",
+						"develop.jsx"
 					],
 					[
-						"makefile",
-						"Makefile"
+						"webpackconfig",
+						"webpack/webpack.config.base.js"
 					],
 					[
-						"eslint",
-						".eslintrc"
+						"navivgation.scss",
+						"src/components/navigation/Navigation.scss"
 					],
 					[
-						"production-",
-						"config/ezpublish/production-7tv.yml"
+						"api.jsx",
+						"src/components/navigation/api/NavigationApi.jsx"
 					],
 					[
-						"preprod",
-						"config/ezpublish/preprod-7tv.yml"
-					],
-					[
-						"script.js",
-						"node_modules/jquery/src/ajax/script.js"
-					],
-					[
-						"app.js",
-						"frontend/ezone/js/app.js"
-					],
-					[
-						"desktop",
-						"frontend/ezone/js/desktop.js"
-					],
-					[
-						"m.script",
-						"frontend/ezone/js/m.script.js"
-					],
-					[
-						"mobile.js",
-						"frontend/ezone/js/mobile.js"
-					],
-					[
-						"desk",
-						"frontend/ezone/js/desktop.js"
-					],
-					[
-						"pweb",
-						"htdocs/extension/psdmultichanneldata/webpack.config.js"
-					],
-					[
-						"prod.yml",
-						"config/ezpublish/production.yml"
-					],
-					[
-						"psd/design.ini.append",
-						"htdocs/extension/psd/settings/design.ini.append.php"
-					],
-					[
-						"design.ini",
-						"htdocs/extension/7tv/settings/design.ini.append.php"
-					],
-					[
-						"page_head.tpl",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"page_head.",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"base.jsx",
-						"frontend/ezone/js/epg/components/full/base.jsx"
-					],
-					[
-						"eslin",
-						".eslintrc"
-					],
-					[
-						"psdtimeoutmodal",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"modalcom",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"modalcomponent",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"psdtimeout",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						".jscs",
-						".jscsrc"
+						"karma",
+						"karma.config.js"
 					],
 					[
 						".eslint",
 						".eslintrc"
 					],
 					[
-						"esformatter",
-						"esformatter.json"
-					],
-					[
-						"tvprogramm/loading",
-						"frontend/ezone/js/modules/epg/components/tvProgramm/loading.jsx"
-					],
-					[
-						"full/header",
-						"frontend/ezone/js/modules/epg/components/full/header.jsx"
-					],
-					[
-						"full/header.",
-						"frontend/ezone/js/modules/epg/components/full/header.jsx"
-					],
-					[
-						"",
-						"Capfile"
-					],
-					[
-						"lint",
-						"vendor/fabpot/php-cs-fixer/Symfony/CS/LintManager.php"
-					],
-					[
-						"senderepg_fu",
-						"frontend/ezone/js/modules/epg/SenderEPG_full.jsx"
-					],
-					[
-						"psdtimeutmo",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
-					],
-					[
-						"timeoutmodalcom",
-						"frontend/ezone/js/modules/psdEzTimeoutModalComponent.jsx"
-					],
-					[
-						"install",
-						"htdocs/doc/INSTALL"
-					],
-					[
-						"valign",
-						"vendor/fabpot/php-cs-fixer/Symfony/CS/Fixer/Contrib/AlignEqualsFixer.php"
-					],
-					[
-						"lodash",
-						"frontend/ezone/js/customized/lodash-custom.js"
-					],
-					[
-						"webpac",
-						"webpack-ezone.config.js"
-					],
-					[
-						"item",
-						"htdocs/kernel/collaboration/item.php"
-					],
-					[
-						"videoplayercon",
-						"frontend/shared/js/modules/videoPlayerController.js"
-					],
-					[
-						"videoplayer",
-						"frontend/ezone/js/modules/VideoPlayerDelegate.js"
-					],
-					[
-						"page_head",
-						"htdocs/extension/psd/design/psddesign/templates/page_head.tpl"
-					],
-					[
-						"script",
-						"node_modules/jquery/src/ajax/script.js"
-					],
-					[
-						"browserupdate",
-						"frontend/ezone/js/libs/browserUpdate.js"
-					],
-					[
-						".eslintr",
-						".eslintrc"
-					],
-					[
-						"make",
-						"Makefile"
-					],
-					[
-						"modalover",
-						"frontend/ezone/js/modules/ModalOverlay.jsx"
-					],
-					[
-						"makf",
-						"Makefile"
-					],
-					[
 						"eslintr",
 						".eslintrc"
 					],
 					[
-						"psdeztime",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
+						"inde.",
+						"index.jsx"
 					],
 					[
-						"time",
-						"frontend/ezone/js/modules/psdEzTimeoutModal.jsx"
+						"eslintrc",
+						".eslintrc"
 					],
 					[
-						"sat1gold.css",
-						"statics/common-static/css/sat1gold.css"
+						"index.js",
+						"index.jsx"
 					],
 					[
-						"multiteaser",
-						"frontend/7tv/sass/components/_multiteaser.scss"
+						".eslintrc",
+						".eslintrc"
 					],
 					[
-						"design.ini.append",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"test",
+						"src/TestCases.js"
 					],
 					[
-						"app",
-						"frontend/7tv/js/app.js"
+						"sixx",
+						"coverage/Chrome 47.0.2526 (Mac OS X 10.11.2)/index.html"
 					],
 					[
-						"awebpack",
-						"node_modules/react-modal/webpack.config.js"
+						"karma.",
+						"karma.config.js"
 					],
 					[
-						"multiteaser.scss",
-						"frontend/7tv/sass/components/_multiteaser.scss"
+						"bundl",
+						"dist/bundle.js"
 					],
 					[
-						"psdpageheadcontr",
-						"htdocs/extension/psdframework/classes/templatecontrollers/psdpageheadcontroller.php"
+						"modalwrapper",
+						"frontend/ezone/js/modules/timeoutModal/ModalWrapper.jsx"
 					],
 					[
-						"article.",
-						"fixtures/ezone/test-content/article.yaml"
+						"timeoutmodal.jsx",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"jquery-migrate",
-						"node_modules/jquery-migrate/dist/jquery-migrate.js"
+						"modal.",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psd.plug",
-						"frontend/ezone/js/psd/jquery.psd.plugins.js"
+						"modal",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psd/design",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"timeoutmodal",
+						"htdocs/extension/psd/design/psddesign/templates/includes/parts/timeout_modal.tpl"
 					],
 					[
-						"page",
-						"htdocs/design/admin2/templates/page_toppath.tpl"
+						"modaljsx",
+						"frontend/ezone/js/modules/timeoutModal/Modal.jsx"
 					],
 					[
-						"psddesign.ini.",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"topclips",
+						"htdocs/extension/psdframework/modules/psdframework/topclips.php"
 					],
 					[
-						"design.append",
-						"htdocs/extension/7tv/settings/design.ini.append.php"
+						"lazyload",
+						"frontend/ezone/js/modules/psdEzLazyLoadingFactory.js"
 					],
 					[
-						"sticky",
-						"frontend/ezone/js/modules/psdEzStickyHeader.js"
+						"timeoutmo",
+						"frontend/ezone/js/modules/timeoutModal/ModalContent.jsx"
 					],
 					[
-						"lodas",
-						"frontend/ezone/js/customized/lodash-custom.js"
+						"page_head",
+						"htdocs/extension/7tv/design/7tvdesign/templates/page_head.tpl"
 					],
 					[
-						"mobile",
-						"frontend/ezone/js/mobile.js"
+						"depene",
+						"frontend/7tv/js/dependency.js"
 					],
 					[
-						"app.",
-						"frontend/ezone/js/app.js"
+						"videpl",
+						"frontend/7tv/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"extension/psd/settings/",
-						"htdocs/extension/psd/settings/design.ini.append.php"
+						"videplayerde",
+						"frontend/7tv/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"design",
-						"htdocs/settings/design.ini"
+						"videplayer",
+						"frontend/ezone/js/modules/VideoPlayerDelegate.js"
 					],
 					[
-						"pagehead",
-						"htdocs/design/standard/templates/page_head.tpl"
+						"psdreact",
+						"frontend/ezone/js/modules/psdReactComponents.jsx"
 					],
 					[
-						"we",
-						"webpack-ezone.config.js"
+						"sat1gold",
+						"statics/common-static/sass/brandmaster/share/_sat1gold.scss"
 					],
 					[
-						"psdhelper",
-						"frontend/ezone/js/modules/psdHelpers.js"
+						"sat1gold.scss",
+						"statics/common-static/sass/sat1gold.scss"
 					],
 					[
-						"request.js",
-						"frontend/ezone/js/modules/epg/util/request.js"
+						"psdngteaser.ini",
+						"htdocs/extension/psdngteaser/settings/psdngteaser.ini"
 					],
 					[
-						"containerc",
-						"frontend/ezone/js/modules/ContainerCleanup.jsx"
-					],
-					[
-						"article.y",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"article.yam",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"article.yaml",
-						"fixtures/7tv/test-content/test-format/article.yaml"
-					],
-					[
-						"vagra",
-						"vagrant/Vagrantfile"
-					],
-					[
-						"article.ym",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"psdhe",
-						"frontend/ezone/js/modules/psdHelpers.js"
-					],
-					[
-						"article",
-						"fixtures/ezone/test-content/article.yaml"
-					],
-					[
-						"fixtures/",
-						"fixtures/7tv/testcontent.yaml"
-					],
-					[
-						"test-",
-						"htdocs/extension/psd/design/psddesign/javascript/ezone-testcontent-overlay.js"
-					],
-					[
-						"_main.scss",
-						"statics/common-static/sass/brandmaster/site/_main.scss"
+						"teaserpreview.tpl",
+						"htdocs/extension/psd/design/psddesign/templates/psdngteaser/teaserpreview.tpl"
 					]
 				],
 				"width": 0.0
@@ -3910,24 +4495,31 @@
 			{
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 311.0,
+			"side_bar_width": 305.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 519,
-			"workspace_name": ""
+			"window_id": 699,
+			"workspace_name": "/Users/dbus/Projekte/Maxdome/web-components.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/Users/dbus/Projekte/Maxdome/web-components.sublime-workspace",
+			"/Users/dbus/Projekte/Maxdome/component-navigation.sublime-workspace",
+			"/Users/dbus/Projekte/Maxdome/component-header.sublime-workspace",
+			"/Users/dbus/Projekte/Maxdome/maxdome.sublime-workspace",
 			"/Users/dbus/Projekte/Pro7Sat1/ezone.sublime-workspace",
+			"/Users/dbus/Projekte/Pro7Sat1/variants.sublime-workspace",
+			"/Users/dbus/Projekte/Pro7Sat1/abTest.sublime-workspace",
 			"/Users/dbus/Projekte/Pro7Sat1/psd-manhattan.sublime-workspace",
+			"/Users/dbus/Projekte/FischApp/FischApp.sublime-workspace",
 			"/Users/dbus/Projekte/Comvel/comvel.sublime-workspace"
 		]
 	}

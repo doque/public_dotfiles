@@ -1,0 +1,4 @@
+{
+	"spec_file_extension": "-test.js",
+	"jasmine_path": "src/__tests__"
+}
