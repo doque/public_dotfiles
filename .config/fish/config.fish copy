@@ -1,0 +1,10 @@
+set -x PATH $PATH /usr/local/sbin /usr/local/php5/bin
+
+function wetter
+	curl wttr.in/$argv
+end
+
+source ~/.config/fish/robby-russel.fish
+source ~/.config/fish/colorful-man-pages.fish
+
+[ -f /usr/local/share/autojump/autojump.fish ]; and source /usr/local/share/autojump/autojump.fish

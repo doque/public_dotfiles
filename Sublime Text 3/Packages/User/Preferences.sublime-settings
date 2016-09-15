@@ -1,8 +1,25 @@
 {
 	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"src/vendor/**"
+	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"color_scheme": "Packages/User/Oceanic Next (SL) (Flake8Lint).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"draw_minimap_border": true,
@@ -26,7 +43,6 @@
 	[
 		"CSS Format",
 		"Dockerfile Syntax Highlighting",
-		"Javascript Beautify",
 		"JavaScript Completions",
 		"JSX",
 		"Vintage"
@@ -37,7 +53,6 @@
 	"show_full_path": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Default.sublime-theme",
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"wide_caret": true,

@@ -1,9 +1,9 @@
 {
 	"extensions":
 	[
-		"jsx",
+		"coffee",
 		"es6",
 		"js",
-		"coffee"
+		"jsx"
 	]
 }
